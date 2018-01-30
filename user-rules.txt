@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2018-01-22 02:30:00   潮云在线 by Kai.-----
+!  -----:  2018-01-30 18:48:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -136,8 +136,12 @@ bbs99.club###hd > div > div.a_2mu > center,#nv_forum > div.wp.a2_h > center,#pos
 |http://m.bokon.net$s@<div style="height:200px;"></div>@@
 |http://www.bokon.net$s@<div id="float_*/mulu.js"></script>@<div>@
 !---btbtdy.com
+@@|http://www.btbtdy.com/templets/btdy/js/jQuery.top
+@@|http://www.btbtdy.com/templets/btdy/js/language
 |http://www.btbtdy.com/templets/btdy/js/ad9401.js
 |http://www.btbtdy.com/templets/btdy/js/slade888.js
+!---btdx8.com
+|https://www.btdx8.com/tmp/$script
 !---btso.pw
 |https://btso.pw/app/bts/View/js/app.min.js
 !---bttiantangs.com
@@ -248,7 +252,7 @@ rmdown.com##img[width="468"][height="60"],img[width="760"][height="90"]
 |https://www.soxunlei.net/wap/$script
 |https://zz.bdstatic.com/linksubmit/push.js
 !---subhd.com
-subhd.com##a[href$="login"],a[href$="vip"],[style^="text-align:center;height:210px"],[style="text-align:center;padding:20px;margin:0 auto;width:500px;"],#weixin_game
+subhd.com##a[href$="login"],a[href$="vip"],[style^="text-align:center;height:210px"],[style="text-align:center;padding:20px;margin:0 auto;width:500px;"],#weixin_game,img[src^="/images/ad/"]
 |http://cdn.xianliao.me/assets/$script
 !---t66y.com
 img588.net##[class^="ad-"],[class^="google-ad"]
@@ -383,7 +387,6 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://misc-xl9-ssl.xunlei.com/d/dist/static/img/bg1.*.jpg$image
 !--右边框页面替换，可替换成百度等页面
 !http://pc.xunlei.com/?key=*&m=0f$r@http://pc.xunlei.com/?key=*&m=0f@www.baidu.com@
-!
 !
 ||v.youku.com/v_show/*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
 |http://v.youku.com/v_show/*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>youkufilm();</script>@
