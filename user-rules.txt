@@ -387,6 +387,30 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://misc-xl9-ssl.xunlei.com/d/dist/static/img/bg1.*.jpg$image
 !--右边框页面替换，可替换成百度等页面
 !http://pc.xunlei.com/?key=*&m=0f$r@http://pc.xunlei.com/?key=*&m=0f@www.baidu.com@
+!--电商广告
+|https://policy.jd.com
+!--小米电视广告
+|https://stat.pandora.xiaomi.com
+|https://upgrade.mishop.pandora.xiaomi.com
+|https://logonext.tv.kuyun.com
+|https://config.kuyun.com
+|https://api.io.mi.com
+|https://mishop.pandora.xiaomi.com
+|https://dvb.pandora.xiaomi.com
+|https://api.ad.xiaomi.com
+|https://de.pandora.xiaomi.com
+|https://data.mistat.xiaomi.com
+|https://jellyfish.pandora.xiaomi.com
+|https://gallery.pandora.xiaomi.com
+|https://o2o.api.xiaomi.com
+|https://bss.pandora.xiaomi.com
+|https://gvod.aiseejapp.atianqi.com
+|https://ad.mi.com
+|https://ad.xiaomi.com
+|https://ad1.xiaomi.com
+|https://sdkconfig.ad.xiaomi.com
+|https://staging.ai.api.xiaomi.com
+|https://b.netcheck.gallery.pandora.xiaomi.com
 !
 ||v.youku.com/v_show/*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
 |http://v.youku.com/v_show/*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>youkufilm();</script>@
