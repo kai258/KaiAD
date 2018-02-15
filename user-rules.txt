@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2018-02-06 19:45:00   潮云在线 by Kai.-----
+!  -----:  2018-02-15 22:08:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -489,3 +489,6 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://compaign.tudou.com$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>tudoufilm();</script>@
 |https://pan.baidu.com$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
 |http://pan.baidu.com$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
+!----------------------------------自定义-------------------
+!--万象启动广告
+|https://live.wyjxb.top/upload/*.jpg
