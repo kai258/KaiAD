@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2018-02-19 117:28:00   潮云在线 by Kai.-----
+!  -----:  2018-02-20 01:55:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -495,3 +495,4 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://upgrade.prismcdn.com/*
 |http://s.de123.net/*
 |http://live.cdn.ttzx.tv/*
+|http://ad.zbatv.com/*
