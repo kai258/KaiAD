@@ -490,9 +490,9 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://pan.baidu.com$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
 !----------------------------------自定义-------------------
 !--万象启动广告
-|https://live.wyjxb.top/upload/2018/*.jpg
+!|https://live.wyjxb.top/upload/2018/*.jpg
 |http://stats.jpush.cn/*
 |http://upgrade.prismcdn.com/*
 |http://s.de123.net/*
-!|http://live.cdn.ttzx.tv/*
+|http://live.cdn.ttzx.tv/*
 |http://ad.zbatv.com/*
