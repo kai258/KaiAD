@@ -491,8 +491,8 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 !----------------------------------自定义-------------------
 !--万象启动广告
 |https://live.wyjxb.top/upload/*.jpg
-|http://stats.jpush.cn/*
-!|http://upgrade.prismcdn.com/*
-|http://s.de123.net/*
+!|http://stats.jpush.cn/*
+|http://upgrade.prismcdn.com/*
+!|http://s.de123.net/*
 |http://live.cdn.ttzx.tv/*
 |http://ad.zbatv.com/*
