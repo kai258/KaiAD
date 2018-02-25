@@ -454,7 +454,6 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 ||http://hnhbyxdq.com/*
 |https://apps.bdimg.com/*
 |https://hm.baidu.com/hm.js?*
-|http://cdn.ty.zzshj.com/*.js
 |http://s2.hnhbyxdq.com/*
 |http://m.yunshengyy.com/*
 |http://lookxw.com/*.png
