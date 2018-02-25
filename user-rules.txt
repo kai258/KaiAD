@@ -451,11 +451,11 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 ||http://123.56.6.60/*
 ||http://exelook.com/*
 ||http://xthanbai.com/*
-||http://zzshj.com/*
-||http://yunshengyy.com/*
 ||http://hnhbyxdq.com/*
 |https://apps.bdimg.com/*
 |https://hm.baidu.com/hm.js?*
+|http://cdn.ty.zzshj.com/*.js
+|http://m.yunshengyy.com/*
 |http://lookxw.com/*.png
 |http://api.pucms.com/*.gif
 |http://api.pucms.com/*.js
