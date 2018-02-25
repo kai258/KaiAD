@@ -435,7 +435,7 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://vip.pptv.com/*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>pptvfilm();</script>@
 |http://vip.1905.com/play/*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>film1905();</script>@
 |https://www.wasu.cn/Play/*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>wasufilm();</script>@
-||*##.fage,.HMDownBox,.HMPBox,span[id="m_lm_ele"],img[id="HMDownMain"],div.jiazai,div.ico-*,div[style="display:inline-block;vertical-align:middle;width:100%;"],a[onclick="close_fage(this)"],div[style="display: none;"]
+||*##.fage,.HMDownBox,.HMPBox,span[id="m_lm_ele"],img[id="HMDownMain"],div.jiazai,div.ico-*,div[style="display:inline-block;vertical-align:middle;width:100%;"],a[onclick="close_fage(this)"],div[style="display: none;"],.XZPnydBy,div[class="XZPnydBy"]
 ||https://ylbdtg.com/*
 ||https://xkaqt.com/*
 ||https://xinci8.com/*
