@@ -446,10 +446,14 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 ||https://kaocat.com/*
 ||https://admin60.com/*
 ||https://e.tdtsd.com/*
+||https://e.t71q.com/*
 ||http://ktzte.cn/*
 ||http://123.56.6.60/*
 ||http://exelook.com/*
 ||http://xthanbai.com/*
+||http://zzshj.com/*
+||http://yunshengyy.com/*
+||http://hnhbyxdq.com/*
 |https://apps.bdimg.com/*
 |https://hm.baidu.com/hm.js?*
 |http://lookxw.com/*.png
