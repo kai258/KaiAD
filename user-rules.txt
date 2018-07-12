@@ -515,5 +515,5 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://s.de123.net/*
 |http://live.cdn.ttzx.tv/*
 |http://ad.zbatv.com/*
-|https://weixin.wanjiajinfu.com/mobile/bankCardManage.html$r@https://weixin.wanjiajinfu.com/mobile/js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
-|https://www.wanjiajinfu.com/mobile/bankCardManage.html$r@https://www.wanjiajinfu.com/mobile/js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
+|https://weixin.wanjiajinfu.com/mobile/bankCardManage.html?$s@js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
+|https://www.wanjiajinfu.com/mobile/bankCardManage.html?$s@js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
