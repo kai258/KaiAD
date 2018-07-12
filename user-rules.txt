@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2018-04-27 16:00:00   潮云在线 by Kai.-----
+!  -----:  2018-07-12 13:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -515,3 +515,4 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://s.de123.net/*
 |http://live.cdn.ttzx.tv/*
 |http://ad.zbatv.com/*
+|https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js
