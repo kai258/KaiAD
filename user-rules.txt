@@ -519,3 +519,7 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |https://www.wanjiajinfu.com/mobile/bankCardManage.html*$s@js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
 |https://weixin.wanjiajinfu.com/mobile/bankCardManage.html*$s@https://www.wanjiajinfu.com/mobile/js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
 |https://www.wanjiajinfu.com/mobile/bankCardManage.html*$s@https://www.wanjiajinfu.com/mobile/js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
+|https://weixin.wanjiajinfu.com/mobile/bankCardManage.html*$s@js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
+|https://www.wanjiajinfu.com/mobile/bankCardManage.html*$s@js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
+|https://weixin.wanjiajinfu.com/mobile/bankCardManage.html*$s@https://www.wanjiajinfu.com/mobile/js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
+|https://www.wanjiajinfu.com/mobile/bankCardManage.html*$s@https://www.wanjiajinfu.com/mobile/js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
