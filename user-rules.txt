@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2018-07-12 13:29:00   潮云在线 by Kai.-----
+!  -----:  2018-08-23 02:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -204,6 +204,8 @@ cnbeta.com##.cbv810
 |http://ja1.gamersky.com/tips/all_tips.js
 !---goudidiao.com
 goudidiao.com##[class^="img-responsive"],[style$="red;"]
+!---hdsky.me
+|https://hdsky.me##[id^="ad_"]
 !---huoche.net
 |https://www.huoche.net##img[src^="/public/ad/"]
 |https://www.huoche.net/$s@开始-->*结束-->@-->@
@@ -212,6 +214,8 @@ goudidiao.com##[class^="img-responsive"],[style$="red;"]
 |https://www.hunhun520.com##[id^="cs_CFdivdlST_"]
 !---ifeng.com
 ifeng.com##div.blockR.iphone_none.ipad_none,.bd_t5
+!---imgchr.com
+|https://imgchr.com##div.ad-banner
 !---itellyou.cn
 |https://msdn.itellyou.cn/images/20171128122518214.png
 !---javbus3.com 因插件原因只在IE下生效
@@ -235,12 +239,12 @@ kisssub.org##div.ads-full-width,.clear.text_center,div.box[style="overflow:hidde
 mobanwang.com##.linkyun,.topBannerYun,.guge,.g590x40
 |http://g1.pptair.com^$script
 |http://fonts.mobanwang.com$s@<div id="searchTop">*</a></span>@<div id="searchTop">@
-!---------------------------------Nn------------------------------------------
-!---ourbits.club
-https://ourbits.club###img[alt="ad"]
+!---nanyangpt.com
+|https://nanyangpt.com##[id^="ad_"]
 !---oyksoft.com
 oyksoft.com##[id^="down-"]
-!---------------------------------Pp------------------------------------------ 
+!---pixiv.net
+|https://www.pixiv.net##.ad,.ad-footer
 !---qu.la
 |https://m.qu.la/jsa/p.js
 |https://code.zantainet.com/j$script
@@ -249,14 +253,17 @@ oyksoft.com##[id^="down-"]
 |https://rarbg.is$s@var _wm3_settings={popunder:*</script>@</script>@
 |https://rarbg.is$s@<script type="text/javascript" src="//dyncdn.me/static/20/js/expla*.js"></script>@@
 |https://rarbg.is$s@; } else { if (typeof(_wm3) !== 'undefined')*{ _wm3.format.popunder.isTriggered = true; } } @@
+!---rjno1.com
+|http://www.rjno1.com$s@window.setTimeout(function()*</script>@</script>@
 !---rmdown.com
 rmdown.com##img[width="468"][height="60"],img[width="760"][height="90"]
 !---soxunlei.net
 |https://www.soxunlei.net/wap/$script
 |https://zz.bdstatic.com/linksubmit/push.js
 !---subhd.com
+subhd.com##[style="text-align:center;padding-top:5px;"]
 |https://www.xianliao.me/embed.js
-|http://subhd.com$s@if (*</script>@</script>@
+|http://subhd.com$s@if (sessionStorage.hassession) {*</script>@</script>@
 !---t66y.com
 img588.net##[class^="ad-"],[class^="google-ad"]
 |http://www.rmdown.com/link.php?hash=$s@function dpos(str)@function fuck()@
@@ -264,8 +271,8 @@ img588.net##[class^="ad-"],[class^="google-ad"]
 |http://t66y.com/htm_data/$s@/<a href='https?:\/\/www.viidii.info\/\?https?:\/\/.*?WIDTH="\d{2,}%"\s?HEIGHT=\d{2,}><\/iframe>(<br>\s?)+/@@
 !---taoyizhu.com
 taoyizhu.com##[class^="fixed-banner-"],[class^="float-banner banner-"]
-!---thzok.com thzthz.net thzvv.com thztv.net thzvvv.com vipthz.com 桃花族域名
-thztv.net,thzvv.com,thzvvv.com,vipthz.com##img[height="400"][width="180"],img[height="250"][width="250"],img[height="300"][width="300"],img[style*="width:960px;"],img[style$="width:480px;height:60px;"],.it618_firstad_flex,td[style="text-align:center;"],img[height="300"][width="336"]
+!---thzok.com thzthz.net thzvv.com thztv.net thzvvv.com vipthz.com taohuabt.cc thznb.com桃花族域名
+thztv.net,thzvv.com,thzvvv.com,vipthz.com,taohuabt.cc,thznb.com,thzbb.com##img[height="400"][width="180"],img[height="250"][width="250"],img[height="300"][width="300"],img[style*="width:960px;"],img[style$="width:480px;height:60px;"],.it618_firstad_flex,td[style="text-align:center;"],img[height="300"][width="336"]
 |http://thzvv.com/imc_attachad-ad.html?aid=$s@<div style="WIDTH: 100%; padding-left:10px;">*<div style="padding-left:10px;">@<div style="padding-left:10px;">@
 |http://vipthz.com/imc_attachad-ad.html?aid=$s@<div style="WIDTH: 100%; padding-left:10px;">*<div style="padding-left:10px;">@<div style="padding-left:10px;">@
 !---tmetb.net hkslg.net 同站长
@@ -523,3 +530,4 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |https://www.wanjiajinfu.com/mobile/postalCash.html*$s@js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
 |https://weixin.wanjiajinfu.com/mobile/postalCash.html*$s@https://www.wanjiajinfu.com/mobile/js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
 |https://www.wanjiajinfu.com/mobile/postalCash.html*$s@https://www.wanjiajinfu.com/mobile/js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
+|http://live.grtn.cn/drm.php?$s@?_upt=4fbd1f88*@{"ErrorCode":"NO_URL","ErrorText":null}@
