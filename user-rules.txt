@@ -530,4 +530,5 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |https://www.wanjiajinfu.com/mobile/postalCash.html*$s@js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
 |https://weixin.wanjiajinfu.com/mobile/postalCash.html*$s@https://www.wanjiajinfu.com/mobile/js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
 |https://www.wanjiajinfu.com/mobile/postalCash.html*$s@https://www.wanjiajinfu.com/mobile/js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
-|http://live.grtn.cn/drm.php*$s@http://live.grtn.cn/drm.php@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/drm.php@
+|http://live.grtn.cn/*$r@http://live.grtn.cn/drm.php@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/drm.php@
+|http://live.grtn.cn/*$s@?_upt=4fbd1f88*@{"ErrorCode":"NO_URL","ErrorText":null}@
