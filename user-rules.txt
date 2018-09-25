@@ -431,6 +431,8 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://www.tudou.com/albumplay/*.html##.tab_nav.fix select{margin-top: 11px;font-size: 15px}csshack
 |http://new-play.tudou.com/v/*.html$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>tudouvideo();</script>@
 |http://new-play.tudou.com/v/*.html##[class="td-interactbox__fn--right"]>select{margin-right: 20px;margin-top: 15px;font-size: 15px}csshack
+|http://www.iqiyi.com/v_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>iqiyifilm();</script>@
+|http://www.iqiyi.com/v_*##div[style*="absolute"][style*="visibility"]
 |https://www.iqiyi.com/v_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>iqiyifilm();</script>@
 |https://www.iqiyi.com/v_*##div[style*="absolute"][style*="visibility"]
 |http://www.le.com/$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>lefilm();</script>@
