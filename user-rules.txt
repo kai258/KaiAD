@@ -493,22 +493,22 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |https://m.iqiyi.com/v_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>iqiyifilm();</script>@
 |http://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"]
 |http://m.le.com/vplay_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>lefilm();</script>@
-|http://m.tv.sohu.com/*.shtml*##div.dl-top-banner,div.btn-xz-app,div.ad-info-show,div.ad-vbox,div.x-ad-panel,div.tw-btn,div.x-video,div.x-poster,div.x-message-panel,a[class="x-download-panel x-dl-shake"]
+#|http://m.tv.sohu.com/*.shtml*##div.dl-top-banner,div.btn-xz-app,div.ad-info-show,div.ad-vbox,div.x-ad-panel,div.tw-btn,div.x-video,div.x-poster,div.x-message-panel,a[class="x-download-panel x-dl-shake"]
 |http://m.tv.sohu.com/*.shtml*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>sohuvideo();</script><script>sohutv();</script>@
-|https://m.tv.sohu.com/*.shtml*##div.dl-top-banner,div.btn-xz-app,div.ad-info-show,div.ad-vbox,div.x-ad-panel,div.tw-btn,div.x-video,div.x-poster,div.x-message-panel,a[class="x-download-panel x-dl-shake"]
+#|https://m.tv.sohu.com/*.shtml*##div.dl-top-banner,div.btn-xz-app,div.ad-info-show,div.ad-vbox,div.x-ad-panel,div.tw-btn,div.x-video,div.x-poster,div.x-message-panel,a[class="x-download-panel x-dl-shake"]
 |https://m.tv.sohu.com/*.shtml*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>sohuvideo();</script><script>sohutv();</script>@
-||http://sohu.com/album/*.html*##a[class="website_operators J_data_statistics"],div.btn-xz-app,a[class="J_data_statistics cf center-link"],a[class="detail-vip-btn J_data_statistics"],div[class="J_data_statistics J_control_view"],div.control_main,section.ad_horizontal,a[class="website_operators bottom_website_operators J_data_statistics"]
+#||http://sohu.com/album/*.html*##a[class="website_operators J_data_statistics"],div.btn-xz-app,a[class="J_data_statistics cf center-link"],a[class="detail-vip-btn J_data_statistics"],div[class="J_data_statistics J_control_view"],div.control_main,section.ad_horizontal,a[class="website_operators bottom_website_operators J_data_statistics"]
 ||http://sohu.com/album/*.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>sohufilm();</script>@
-||https://sohu.com/album/*.html*##a[class="website_operators J_data_statistics"],div.btn-xz-app,a[class="J_data_statistics cf center-link"],a[class="detail-vip-btn J_data_statistics"],div[class="J_data_statistics J_control_view"],div.control_main,section.ad_horizontal,a[class="website_operators bottom_website_operators J_data_statistics"]
+#||https://sohu.com/album/*.html*##a[class="website_operators J_data_statistics"],div.btn-xz-app,a[class="J_data_statistics cf center-link"],a[class="detail-vip-btn J_data_statistics"],div[class="J_data_statistics J_control_view"],div.control_main,section.ad_horizontal,a[class="website_operators bottom_website_operators J_data_statistics"]
 ||https://sohu.com/album/*.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>sohufilm();</script>@
 ||https://v.qq.com/x/*.html*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
 |https://m.v.qq.com/x/*.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"]
 |https://m.v.qq.com/x/*.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script>@
 |http://m.pptv.com/show/*##a[tj_id="click_page_home"],div.openapp-bg,a[tj_id="click_download"],a[tj_id="share"],em[class="sort"],div.tui__header
 |http://m.pptv.com/show/*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>pptvfilm();</script>@
-||https://mgtv.com/b/*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
-|https://m.mgtv.com/b/*##div.mg-video ad,div.mg-video,div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,div.video-poster,a[class="video-btn-more"],li[class="n-share"],li[class="n-zan"],li[class="n-cache mg-stat"],p[class="btn"],div.m-function-box
-|https://m.mgtv.com/b/*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>mgtvvideo();</script><script>mgtvfilm();</script>@
+||https://mgtv.com/b/*.html$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
+#|https://m.mgtv.com/b/*.html##div.mg-video ad,div.mg-video,div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,div.video-poster,a[class="video-btn-more"],li[class="n-share"],li[class="n-zan"],li[class="n-cache mg-stat"],p[class="btn"],div.m-function-box
+|https://m.mgtv.com/b/*.html$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>mgtvvideo();</script><script>mgtvfilm();</script>@
 |http://vip.1905.com/play/*.shtml##section[id="app_store"],a[class="mbtn member"],section[id="promotion"],section[id="fix_member"]
 |http://vip.1905.com/play/*.shtml$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>film1905();</script>@
 ||https://www.wasu.cn/*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
@@ -518,20 +518,3 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://compaign.tudou.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>tudoufilm();</script>@
 |https://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
 |http://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
-!----------------------------------自定义-------------------
-!--万象启动广告
-!|https://live.wyjxb.top/upload/2018/*.jpg
-|http://stats.jpush.cn/*
-|http://upgrade.prismcdn.com/*
-|http://s.de123.net/*
-|http://live.cdn.ttzx.tv/*
-|http://ad.zbatv.com/*
-|https://weixin.wanjiajinfu.com/mobile/bankCardManage.html*$s@js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
-|https://www.wanjiajinfu.com/mobile/bankCardManage.html*$s@js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
-|https://weixin.wanjiajinfu.com/mobile/bankCardManage.html*$s@https://www.wanjiajinfu.com/mobile/js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
-|https://www.wanjiajinfu.com/mobile/bankCardManage.html*$s@https://www.wanjiajinfu.com/mobile/js/bankCardManage.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/bankCardManage.js@
-|https://weixin.wanjiajinfu.com/mobile/postalCash.html*$s@js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
-|https://www.wanjiajinfu.com/mobile/postalCash.html*$s@js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
-|https://weixin.wanjiajinfu.com/mobile/postalCash.html*$s@https://www.wanjiajinfu.com/mobile/js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
-|https://www.wanjiajinfu.com/mobile/postalCash.html*$s@https://www.wanjiajinfu.com/mobile/js/postalCash.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/postalCash.js@
-|http://live.grtn.cn/*$s@</body>@</body>?_upt=4fbd1f88*@{"ErrorCode":"NO_URL","ErrorText":null}@
