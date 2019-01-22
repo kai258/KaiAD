@@ -47,9 +47,30 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-01-16 23:05:00   潮云在线 by Kai.-----
+!  -----:  2019-01-22 15:05:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
+!
+!----------------------------------特殊-------------------
+!
+@@@@|https://mp.weixin.qq.com
+@@@@|https://vip.youku.com
+@@@@|https://m.vip.youku.com
+@@@@|https://h5.vip.youku.com
+@@|m.mgtv.com/channel/
+@@|https://m.mgtv.com/channel/
+@@|https://m.tv.sohu.com/channel/
+@@|https://m.tv.sohu.com/index/
+@@|https://m.tv.sohu.com/drama/
+@@|https://m.tv.sohu.com/comic/
+@@|https://m.tv.sohu.com/show/
+@@|https://m.tv.sohu.com/hots/
+@@|https://m.tv.sohu.com/pgc/
+@@|https://m.tv.sohu.com/movie/
+@@|https://m.tv.sohu.com/film/
+@@|https://m.tv.sohu.com/drama_us/
+@@|https://m.tv.sohu.com/yule/
+@@|https://m.tv.sohu.com/sports/
 !
 !---114la.com
 114la.com##[id^="Game"],#HDtopBar,#imgArr
@@ -518,23 +539,3 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://compaign.tudou.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>tudoufilm();</script>@
 |https://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
 |http://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
-!
-!----------------------------------特殊-------------------
-@@@@|https://mp.weixin.qq.com
-@@@@|https://vip.youku.com
-@@@@|https://m.vip.youku.com
-@@@@|https://h5.vip.youku.com
-@@|m.mgtv.com/channel/
-@@|https://m.mgtv.com/channel/
-@@|https://m.tv.sohu.com/channel/
-@@|https://m.tv.sohu.com/index/
-@@|https://m.tv.sohu.com/drama/
-@@|https://m.tv.sohu.com/comic/
-@@|https://m.tv.sohu.com/show/
-@@|https://m.tv.sohu.com/hots/
-@@|https://m.tv.sohu.com/pgc/
-@@|https://m.tv.sohu.com/movie/
-@@|https://m.tv.sohu.com/film/
-@@|https://m.tv.sohu.com/drama_us/
-@@|https://m.tv.sohu.com/yule/
-@@|https://m.tv.sohu.com/sports/
