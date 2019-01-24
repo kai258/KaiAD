@@ -544,5 +544,5 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |https://www.wasu.cn/wap/Play/*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>wasufilm();</script>@
 |http://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"]
 |http://compaign.tudou.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>tudoufilm();</script>@
-|https://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
-|http://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
+#|https://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
+#|http://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
