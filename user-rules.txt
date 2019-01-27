@@ -503,7 +503,7 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 |http://api.pucms.com/*.gif
 |http://api.pucms.com/*.js
 |http://p.ynjczy.net/*
-||https://m.youku.com/video/id_*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
+!||https://m.youku.com/video/id_*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
 |http://m.youku.com/video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
 |http://m.youku.com/video/id_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>youkufilm();</script>@
 |https://m.youku.com/video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
