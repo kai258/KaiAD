@@ -56,6 +56,7 @@
 @@@@|https://mp.weixin.qq.com
 @@@@|https://coding.net/
 !  优酷影视
+@@@@|https://www.youku.com/
 @@@@|https://vip.youku.com/
 @@@@|https://m.vip.youku.com/
 @@@@|https://h5.vip.youku.com/
