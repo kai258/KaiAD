@@ -54,12 +54,36 @@
 !----------------------------------特殊-------------------
 !
 @@@@|https://mp.weixin.qq.com
-@@@@|https://vip.youku.com
-@@@@|https://m.vip.youku.com
-@@@@|https://h5.vip.youku.com
+@@@@|https://coding.net/
+!  优酷影视
+@@@@|https://vip.youku.com/
+@@@@|https://m.vip.youku.com/
+@@@@|https://h5.vip.youku.com/
+@@@@|https://tv.youku.com/
+@@@@|https://zy.youku.com/
+@@@@|https://movie.youku.com/
+@@@@|https://music.youku.com/
+@@@@|https://comic.youku.com/
+@@@@|https://child.youku.com/
+@@@@|https://news.youku.com/
+@@@@|https://jilupian.youku.com/
+@@@@|https://finance.youku.com/
+@@@@|https://sports.youku.com/
+@@@@|https://edu.youku.com/
+@@@@|https://ent.youku.com/
+@@@@|https://game.youku.com
+@@@@|https://tech.youku.com/
+@@@@|https://fun.youku.com/
+@@@@|https://life.youku.com/
+@@@@|https://travel.youku.com
+@@@@|https://auto.youku.com/
+@@@@|https://fashion.youku.com/
+@@@@|https://baby.youku.com/
+@@@@|https://live.youku.com/
+!  芒果TV
 @@|m.mgtv.com/channel/
 @@|https://m.mgtv.com/channel/
-@@|https://m.tv.sohu.com/channel/
+!  搜狐影视
 @@|https://m.tv.sohu.com/index/
 @@|https://m.tv.sohu.com/drama/
 @@|https://m.tv.sohu.com/comic/
@@ -506,7 +530,7 @@ zimuzu.tv###help,[style^="text-align:center;"],li.rel
 !||https://m.youku.com/video/id_*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
 |http://m.youku.com/video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
 |http://m.youku.com/video/id_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>youkufilm();</script>@
-|https://m.youku.com/video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
+!|https://m.youku.com/video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
 |https://m.youku.com/video/id_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>youkufilm();</script>@
 |http://m.youku.com/alipay_video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
 |http://m.youku.com/alipay_video/id_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>youkufilm();</script>@
