@@ -143,7 +143,6 @@ im-x.jd.com
 |http://tv.aiseet.atianqi.com
 |http://gvod.aiseejapp.atianqi.com
 |http://omgmta.play.aiseet.atianqi.com
-|http://vv.play.aiseet.atianqi.com
 !银河互联网电视
 |http://auth.api.gitv.tv
 |http://appstore.ptmi.gitv.tv
