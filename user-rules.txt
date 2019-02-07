@@ -198,13 +198,6 @@ im-x.jd.com
 |http://secure-chn.imrworldwide.com
 |http://ad.doubleclick.net
 !
-!--潮云电视
-|http://www.chaoyun.online/telecom.xml$r@http://www.chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
-|http://www.chaoyun.online/cmcc.xml$r@http://www.chaoyun.online/cmcc.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyuntv.xml@
-|http://www.chaoyun.online/stxwzh.m3u8$r@http://www.chaoyun.online/stxwzh.m3u8@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
-|http://www.chaoyun.online/stjjsh.m3u8$r@http://www.chaoyun.online/stjjsh.m3u8@http://sttv-hls.cutv.com/7xjJK9d/500/*.m3u8@
-|http://www.chaoyun.online/styswy.m3u8$r@http://www.chaoyun.online/styswy.m3u8@http://sttv-hls.cutv.com/G7Kql7a/500/*.m3u8@
-!
 !
 !---114la.com
 114la.com##[id^="Game"],#HDtopBar,#imgArr
@@ -690,3 +683,11 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |http://compaign.tudou.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>tudoufilm();</script>@
 !|https://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
 |http://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
+!
+!--潮云电视
+|http://www.chaoyun.online/telecom.xml$r@http://www.chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
+|http://www.chaoyun.online/cmcc.xml$r@http://www.chaoyun.online/cmcc.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyuntv.xml@
+|http://www.chaoyun.online/stxwzh.m3u8$r@http://www.chaoyun.online/stxwzh.m3u8@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
+|http://www.chaoyun.online/stjjsh.m3u8$r@http://www.chaoyun.online/stjjsh.m3u8@http://sttv-hls.cutv.com/7xjJK9d/500/*.m3u8@
+|http://www.chaoyun.online/styswy.m3u8$r@http://www.chaoyun.online/styswy.m3u8@http://sttv-hls.cutv.com/G7Kql7a/500/*.m3u8@
+!
