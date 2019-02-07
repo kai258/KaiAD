@@ -685,7 +685,8 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |http://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
 !
 !--潮云电视
-||https://youku.com$s@https://m.youku.com/@http://m.youku.com/@
+||http://youku.com$s@https://m.youku.com@http://m.youku.com@
+||https://youku.com$s@https://m.youku.com@http://m.youku.com@
 ||http://chaoyun.online/telecom*$r@http://www.chaoyun.online/telecom*@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
 ||http://chaoyun.online/cmcc*$r@http://www.chaoyun.online/cmcc*@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyuntv.xml@
 ||http://chaoyun.online/stxwzh*$r@http://chaoyun.online/stxwzh*@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
