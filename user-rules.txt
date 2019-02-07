@@ -599,7 +599,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://film.sohu.com/album/*.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>sohufilm();</script>@
 |https://film.sohu.com/album/*.html*##.player-content-info>select{margin-left: 20px;margin-top: 20px;font-size: 15px}csshack
 |https://v.qq.com/x/*.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>qqfilm();</script>@
-|https://v.qq.com/x/*.html*##[class="action_wrap cf"]>select{margin-left: 10px;margin-top: 16px}[class="action_item action_count"] .icon_text
+|https://v.qq.com/x/*.html*##div.tvip_layer,[class="action_wrap cf"]>select{margin-left: 10px;margin-top: 16px}[class="action_item action_count"] .icon_text
 |https://www.mgtv.com/b/*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>mgtvfilm();</script>@
 |https://www.mgtv.com/b/*##[class="v-panel-count v-panel-mod"]>select{margin-left: 15px;font-size: 15px}csshack
 |http://v.pptv.com/show/*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>pptvvideo();</script>@
