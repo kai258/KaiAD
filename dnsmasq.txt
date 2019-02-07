@@ -57,7 +57,7 @@ doubleclick.net
 126.net
 sohu.com
 163.com
-right.com.cn
+!right.com.cn
 50bang.org
 you85.cn
 chaoyun.online
