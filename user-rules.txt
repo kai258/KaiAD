@@ -198,7 +198,9 @@ im-x.jd.com
 |http://secure-chn.imrworldwide.com
 |http://ad.doubleclick.net
 !
-!--汕头电视台
+!--潮云电视
+|http://chaoyun.online/telecom.xml*$s@http://chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/ram/coding-pages/chaoyun.xml@
+|http://chaoyun.online/cmcc.xml*$s@http://chaoyun.online/cmcc.xml@https://coding.net/u/kai258/p/tv/git/ram/coding-pages/chaoyuntv.xml@
 |http://chaoyun.online/stxwzh.m3u8*$s@http://chaoyun.online/stxwzh.m3u8@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
 |http://chaoyun.online/stjjsh.m3u8*$s@http://chaoyun.online/stjjsh.m3u8@http://sttv-hls.cutv.com/7xjJK9d/500/*.m3u8@
 |http://chaoyun.online/styswy.m3u8*$s@http://chaoyun.online/styswy.m3u8@http://sttv-hls.cutv.com/G7Kql7a/500/*.m3u8@
