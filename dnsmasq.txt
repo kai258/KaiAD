@@ -62,3 +62,6 @@ right.com.cn
 you85.cn
 chaoyun.online
 www.chaoyun.online
+mi.com
+xiaomi.com
+miui.com
