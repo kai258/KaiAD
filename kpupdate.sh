@@ -43,7 +43,7 @@ rm_cache(){
         rm_cache
       else          
         user_online=$(sed -n '1p' /tmp/user-rules.txt |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
-        user_local=$(sed -n '1p' /etc/storage/koolproxy/user-rules/user.txt |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
+        user_local=$(sed -n '1p' /etc/storage/koolproxy/rules_store/user.txt |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
         if [ "$user_online" -le "$user_local" ];then
            echo_date "本地自用规则已经最新，无需更新"
            logger -t "【Koolproxy】" -p cron.info "本地自用规则已经最新，无需更新"
@@ -51,7 +51,7 @@ rm_cache(){
         else
            echo_date "检测到自用规则更新，应用规则中..."
            logger -t "【Koolproxy】" -p cron.info "检测到自用规则更新，应用规则中..."
-           cp -f /tmp/user-rules.txt /etc/storage/koolproxy/user-rules/user.txt
+           cp -f /tmp/user-rules.txt /etc/storage/koolproxy/rules_store/user.txt
            rm_cache;restart_kp
         fi
       fi  
