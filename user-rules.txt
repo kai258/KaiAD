@@ -201,14 +201,11 @@ im-x.jd.com
 !--潮云电视
 |http://chaoyun.online/telecom.xml*$s@http://chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
 |http://chaoyun.online/cmcc.xml*$s@http://chaoyun.online/cmcc.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyuntv.xml@
-|http://chaoyun.online/stxwzh.m3u8*$s@http://chaoyun.online/stxwzh.m3u8@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
-|http://chaoyun.online/stjjsh.m3u8*$s@http://chaoyun.online/stjjsh.m3u8@http://sttv-hls.cutv.com/7xjJK9d/500/*.m3u8@
-|http://chaoyun.online/styswy.m3u8*$s@http://chaoyun.online/styswy.m3u8@http://sttv-hls.cutv.com/G7Kql7a/500/*.m3u8@
 |http://chaoyun.online/*$r@http://chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
 |http://chaoyun.online/*$r@http://chaoyun.online/cmcc.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyuntv.xml@
-|http://chaoyun.online/*$r@http://chaoyun.online/stxwzh.m3u8@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
-|http://chaoyun.online/*$r@http://chaoyun.online/stjjsh.m3u8@http://sttv-hls.cutv.com/7xjJK9d/500/*.m3u8@
-|http://chaoyun.online/*$r@http://chaoyun.online/styswy.m3u8@http://sttv-hls.cutv.com/G7Kql7a/500/*.m3u8@
+|http://sttv-hls.cutv.com/lKGXIQa/*$r@http://sttv-hls.cutv.com/lKGXIQa/*.m3u8@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
+|http://sttv-hls.cutv.com/7xjJK9d/*$r@http://sttv-hls.cutv.com/7xjJK9d/*.m3u8@http://sttv-hls.cutv.com/7xjJK9d/500/*.m3u8@
+|http://sttv-hls.cutv.com/G7Kql7a/*$r@http://sttv-hls.cutv.com/G7Kql7a/*.m3u8@http://sttv-hls.cutv.com/G7Kql7a/500/*.m3u8@
 !
 !
 !---114la.com
