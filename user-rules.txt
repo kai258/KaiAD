@@ -54,48 +54,6 @@
 !----------------------------------特殊-------------------
 !
 @@@@|https://mp.weixin.qq.com
-@@@@|https://coding.net/
-!--优酷影视
-@@@@|https://vip.youku.com/
-@@@@|https://m.vip.youku.com/
-@@@@|https://h5.vip.youku.com/
-@@@@|https://tv.youku.com/
-@@@@|https://zy.youku.com/
-@@@@|https://movie.youku.com/
-@@@@|https://music.youku.com/
-@@@@|https://comic.youku.com/
-@@@@|https://child.youku.com/
-@@@@|https://news.youku.com/
-@@@@|https://jilupian.youku.com/
-@@@@|https://finance.youku.com/
-@@@@|https://sports.youku.com/
-@@@@|https://edu.youku.com/
-@@@@|https://ent.youku.com/
-@@@@|https://game.youku.com
-@@@@|https://tech.youku.com/
-@@@@|https://fun.youku.com/
-@@@@|https://life.youku.com/
-@@@@|https://travel.youku.com
-@@@@|https://auto.youku.com/
-@@@@|https://fashion.youku.com/
-@@@@|https://baby.youku.com/
-@@@@|https://live.youku.com/
-!--芒果TV
-@@|m.mgtv.com/channel/
-@@|https://m.mgtv.com/channel/
-!--搜狐影视
-@@|https://m.tv.sohu.com/index/
-@@|https://m.tv.sohu.com/drama/
-@@|https://m.tv.sohu.com/comic/
-@@|https://m.tv.sohu.com/show/
-@@|https://m.tv.sohu.com/hots/
-@@|https://m.tv.sohu.com/pgc/
-@@|https://m.tv.sohu.com/movie/
-@@|https://m.tv.sohu.com/film/
-@@|https://m.tv.sohu.com/drama_us/
-@@|https://m.tv.sohu.com/yule/
-@@|https://m.tv.sohu.com/sports/
-!
 !--小米电视广告
 |http://stat.pandora.xiaomi.com
 |http://upgrade.mishop.pandora.xiaomi.com
@@ -660,11 +618,11 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.film.sohu.com/album/*.html*##a[class="website_operators J_data_statistics"],div.btn-xz-app,a[class="J_data_statistics cf center-link"],a[class="detail-vip-btn J_data_statistics"],div[class="J_data_statistics J_control_view"],div.control_main,section.ad_horizontal,a[class="website_operators bottom_website_operators J_data_statistics"]
 |https://m.film.sohu.com/album/*.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>sohufilm();</script>@
 |https://m.v.qq.com/*.html*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
-|https://m.v.qq.com/x/*.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],div[class="tvp_app_btn"],div[class="mod_promotion"]
+|https://m.v.qq.com/x/*.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],h1[class="site_title"],div[class="tvp_app_btn"],div[class="mod_promotion"]
 |https://m.v.qq.com/x/*.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script>@
-|https://m.v.qq.com/cover/*.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],div[id="2016_banner"],div[class="mod_promotion"]
+|https://m.v.qq.com/cover/*.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],h1[class="site_title"],div[id="2016_banner"],div[class="mod_promotion"]
 |https://m.v.qq.com/cover/*.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script><script>qqvideo();</script>@
-|https://m.v.qq.com/play.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],div[id="2016_banner"],div[class="mod_promotion"]
+|https://m.v.qq.com/play.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],h1[class="site_title"],div[id="2016_banner"],div[class="mod_promotion"]
 |https://m.v.qq.com/play.html*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script><script>qqvideo();</script>@
 |http://m.pptv.com/show/*##a[tj_id="click_page_home"],div.openapp-bg,a[tj_id="click_download"],a[tj_id="share"],em[class="sort"],div.tui__header
 |http://m.pptv.com/show/*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>pptvfilm();</script>@
