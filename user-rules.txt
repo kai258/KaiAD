@@ -645,7 +645,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 !--潮云电视
 ||http://youku.com$s@https://m.youku.com@http://m.youku.com@
 ||https://youku.com$s@https://m.youku.com@http://m.youku.com@
-|http://entware.mirrors.ligux.com$r@http://entware.mirrors.ligux.com/koolproxy/vip.js@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
+||https://youku.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/http.js"></script>@
 ||http://chaoyun.online$r@http://chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
 ||http://chaoyun.online$r@http://www.chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
 ||http://chaoyun.online/cmcc*$r@http://www.chaoyun.online/cmcc*@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyuntv.xml@
