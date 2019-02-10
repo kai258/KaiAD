@@ -155,8 +155,7 @@ im-x.jd.com
 |http://k5.gslb.ksyuncdn.com
 |http://secure-chn.imrworldwide.com
 |http://ad.doubleclick.net
-!腾讯新闻
-|https://view.inews.qq.com##a[id^="App_WX_article_Bottom_banner_1"],[id^="App_WX_Rel_Stream_6"],[style="display: block;"]
+!
 !
 !---114la.com
 114la.com##[id^="Game"],#HDtopBar,#imgArr
