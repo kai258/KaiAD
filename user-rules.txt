@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-02-08 12:30:00   潮云在线 by Kai.-----
+!  -----:  2019-02-10 19:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -155,7 +155,8 @@ im-x.jd.com
 |http://k5.gslb.ksyuncdn.com
 |http://secure-chn.imrworldwide.com
 |http://ad.doubleclick.net
-!
+!腾讯新闻
+|https://view.inews.qq.com##[id^="App_WX_article_Bottom_banner_1"],[id^="App_WX_Rel_Stream_6"],[style^="display: block;"]
 !
 !---114la.com
 114la.com##[id^="Game"],#HDtopBar,#imgArr
