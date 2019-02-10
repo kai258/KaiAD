@@ -155,6 +155,7 @@ im-x.jd.com
 |http://k5.gslb.ksyuncdn.com
 |http://secure-chn.imrworldwide.com
 |http://ad.doubleclick.net
+|http://shicao.icantv.cn
 !
 !
 !---114la.com
