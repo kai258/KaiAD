@@ -156,6 +156,7 @@ im-x.jd.com
 |http://secure-chn.imrworldwide.com
 |http://ad.doubleclick.net
 |http://shicao.icantv.cn
+|http://pagead*.googlesyndication.com/*/ads*.js
 !
 !
 !---114la.com
