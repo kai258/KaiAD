@@ -639,7 +639,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |http://vip.1905.com/play/*.shtml##section[id="app_store"],a[class="mbtn member"],section[id="promotion"],section[id="fix_member"]
 |http://vip.1905.com/play/*.shtml$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>film1905();</script>@
 ||https://www.wasu.cn/*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
-|https://www.wasu.cn/wap/Play/*##div[class="hd l"],div[class="player_menu_list r"],div.vip,div[class="ws_more_app l"],div.ws_ad,div.play_ads,div[id="uc-ads"],div.vip_con mb10,div.sidebar
+|https://www.wasu.cn/wap/Play/*##div[class="hd l"],div[class="player_menu_list r"],div.vip,div[class="ws_more_app l"],div.ws_ad,div.play_ads,div[id="uc-ads"],div.vip_con mb10,div.sidebar,div[id="pop_box"],div.ws_ad,div.sidebar
 |https://www.wasu.cn/wap/Play/*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>wasufilm();</script>@
 |http://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"]
 |http://compaign.tudou.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>tudoufilm();</script>@
