@@ -646,18 +646,4 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 !|https://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
 |http://pan.baidu.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
 !
-!--潮云电视
-||http://youku.com$s@https://m.youku.com@http://m.youku.com@
-||https://youku.com$s@https://m.youku.com@http://m.youku.com@
-||https://youku.com$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/http.js"></script>@
-||http://chaoyun.online$r@http://chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
-||http://chaoyun.online$r@http://www.chaoyun.online/telecom.xml@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyun.xml@
-||http://chaoyun.online/cmcc*$r@http://www.chaoyun.online/cmcc*@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyuntv.xml@
-||http://chaoyun.online/stxwzh*$r@http://chaoyun.online/stxwzh*@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
-||http://chaoyun.online/stjjsh*$r@http://chaoyun.online/stjjsh*@http://sttv-hls.cutv.com/7xjJK9d/500/*.m3u8@
-||http://chaoyun.online/styswy*$r@http://chaoyun.online/styswy*@http://sttv-hls.cutv.com/G7Kql7a/500/*.m3u8@
-||http://chaoyun.online/cmcc*$r@http://chaoyun.online/cmcc*@https://coding.net/u/kai258/p/tv/git/raw/coding-pages/chaoyuntv.xml@
-||http://chaoyun.online/stxwzh*$r@http://www.chaoyun.online/stxwzh*@http://sttv-hls.cutv.com/lKGXIQa/500/*.m3u8@
-||http://chaoyun.online/stjjsh*$r@http://www.chaoyun.online/stjjsh*@http://sttv-hls.cutv.com/7xjJK9d/500/*.m3u8@
-||http://chaoyun.online/styswy*$r@http://www.chaoyun.online/styswy*@http://sttv-hls.cutv.com/G7Kql7a/500/*.m3u8@
-!
+
