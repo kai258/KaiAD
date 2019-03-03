@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-03-03 21:00:00   潮云在线 by Kai.-----
+!  -----:  2019-03-03 21:32:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -641,7 +641,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.mgtv.com/b/*.html$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
 |https://m.mgtv.com/b/*.html##div.mg-video ad,div.mg-video,div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,div.video-poster,a[class="video-btn-more"],p[class="btn"],div.m-function-box
 |https://m.mgtv.com/b/*.html$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>mgtvvideo();</script><script>mgtvfilm();</script>@
-|http://vip.1905.com/play/*.shtml##section[id="app_store"],a[class="mbtn member"],section[id="promotion"],section[id="fix_member"]
+|http://vip.1905.com/play/*.shtml##section[id="app_store"],a[class="mbtn member"],section[id="promotion"],section[id="fix_member"],div.floatMark
 |http://vip.1905.com/play/*.shtml$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>film1905();</script>@
 ||https://www.wasu.cn/*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
 |https://www.wasu.cn/wap/*##div[class="hd l"],div.vip,div[class="ws_more_app l"],div.ws_ad,div.play_ads,div.sidebar,div[id="uc-ads"],div[id="pop_box"],div[class="ws_ad"],div[class="play_ads"],div[class="sidebar"],div[id="adContainer"]
