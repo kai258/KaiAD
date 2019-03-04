@@ -659,6 +659,6 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.tv.sohu.com/$s@</head>@<meta name="apple-mobile-web-app-title" content ="搜狐视频"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"></head>@
 |https://m.pptv.com/$s@</head>@<meta name="apple-mobile-web-app-title" content ="PP视频"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"></head>@
 |http://m.le.com/$s@</head>@<meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"></head>@
-|https://www.wasu.cn$s@</head>@<meta name="apple-mobile-web-app-title" content ="华数TV"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"></head>@
+||https://www.wasu.cn/wap/*$s@</head>@<meta name="apple-mobile-web-app-title" content ="华数TV"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"></head>@
 |http://vip.1905.com/$s@</head>@<meta name="apple-mobile-web-app-title" content ="1905VIP影院"><link rel="apple-touch-icon" href="//vip.1905.com/favicon.ico"><link rel="apple-touch-icon-precomposed" sizes="180x180" href="//vip.1905.com/favicon.ico"></head>@
 !
