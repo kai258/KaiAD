@@ -31,6 +31,7 @@ itc.cn
 kankan.com
 ku6.com
 letv.com
+m.letv.com
 letvcloud.com
 letvimg.com
 pplive.cn
@@ -40,9 +41,12 @@ pptv.com
 www.qq.com
 l.qq.com
 v.qq.com
+m.v.qq.com
+film.qq.com
 video.sina.com.cn
 tudou.com
 wasu.cn
+www.wasu.cn
 analytics-union.xunlei.com
 kankan.xunlei.com
 youku.com
