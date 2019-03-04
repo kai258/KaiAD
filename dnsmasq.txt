@@ -50,6 +50,14 @@ www.wasu.cn
 analytics-union.xunlei.com
 kankan.xunlei.com
 youku.com
+tv.youku.com
+movie.youku.com
+vip.youku.com
+home.vip.youku.com
+zy.youku.com
+music.youku.com
+comic.youku.com
+child.youku.com
 hunantv.com
 ifeng.com
 renren.com
