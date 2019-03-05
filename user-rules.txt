@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-03-04 20:00:00   潮云在线 by Kai.-----
+!  -----:  2019-03-06 02:30:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -626,11 +626,11 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.film.sohu.com/album/*.html*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>sohufilm();</script>@
 |https://m.v.qq.com/*.html*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
 |https://m.v.qq.com/x/*.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],h1[class="site_title"],div[class="tvp_app_btn"],div[class="mod_promotion"],a[class="js_btn_pay btn_pay btn_ct"]
-|https://m.v.qq.com/x/*.html*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script>@
+|https://m.v.qq.com/x/*.html*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script><script>qqindex();</script>@
 |https://m.v.qq.com/cover/*.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],h1[class="site_title"],div[id="2016_banner"],div[class="mod_promotion"],a[class="js_btn_pay btn_pay btn_ct"]
-|https://m.v.qq.com/cover/*.html*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script><script>qqvideo();</script>@
+|https://m.v.qq.com/cover/*.html*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script><script>qqvideo();</script><script>qqindex();</script>@
 |https://m.v.qq.com/play.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],h1[class="site_title"],div[id="2016_banner"],div[class="mod_promotion"],a[class="js_btn_pay btn_pay btn_ct"]
-|https://m.v.qq.com/play.html*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script><script>qqvideo();</script>@
+|https://m.v.qq.com/play.html*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>qqfilm();</script><script>qqvideo();</script><script>qqindex();</script>@
 |http://m.pptv.com/show/*##a[tj_id="click_page_home"],div.openapp-bg,a[tj_id="click_download"],a[tj_id="share"],em[class="sort"],div.tui__header，div.afpPosition,[class="player-info openapp-bg"],a[class="download"],a[class="share"]
 |http://m.pptv.com/show/*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>pptvfilm();</script>@
 |https://m.pptv.com/show/*##a[tj_id="click_page_home"],div.openapp-bg,a[tj_id="click_download"],a[tj_id="share"],em[class="sort"],div.tui__header，div.afpPosition,[class="player-info openapp-bg"],a[class="download"],a[class="share"]
