@@ -25,6 +25,7 @@ fun.tv
 hitvs.cn
 hljtv.com
 iqiyi.com
+m.iqiyi.com
 qiyi.com
 agn.aty.sohu.com
 itc.cn
@@ -68,6 +69,10 @@ mydrivers.com
 doubleclick.net
 126.net
 sohu.com
+tv.sohu.com
+m.tv.sohu.com
+film.sohu.com
+m.film.sohu.com
 163.com
 !right.com.cn
 50bang.org
