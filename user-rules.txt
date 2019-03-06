@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-03-06 02:30:00   潮云在线 by Kai.-----
+!  -----:  2019-03-06 12:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -610,9 +610,9 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |http://m.youku.com/alipay_video/id_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>youkufilm();</script>@
 |https://m.youku.com/alipay_video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
 |https://m.youku.com/alipay_video/id_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>youkufilm();</script>@
-|http://m.iqiyi.com/v_*##div.header-app,div.iqy-items,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"],div[class="c-btn c-btn-block c-btn-block-lxx m-openVip-banner"],div.video-action-btn,div[class="m-player-tip m-vipPlayer-tip"],div.m-player-tip,div.c-openVip,div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"]
+|http://m.iqiyi.com/v_*##div.header-app,div.iqy-items,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"],div[class="c-btn c-btn-block c-btn-block-lxx m-openVip-banner"],div.video-action-btn,div[class="m-player-tip m-vipPlayer-tip"],div.m-player-tip,div.c-openVip,div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div[class="m-box-items m-box-items-full"]
 |http://m.iqiyi.com/v_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>iqiyifilm();</script>@
-|https://m.iqiyi.com/v_*##div.header-app,div.iqy-items,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"],div[class="c-btn c-btn-block c-btn-block-lxx m-openVip-banner"],div.video-action-btn,div[class="m-player-tip m-vipPlayer-tip"],div.m-player-tip,div.c-openVip,div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"]
+|https://m.iqiyi.com/v_*##div.header-app,div.iqy-items,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"],div[class="c-btn c-btn-block c-btn-block-lxx m-openVip-banner"],div.video-action-btn,div[class="m-player-tip m-vipPlayer-tip"],div.m-player-tip,div.c-openVip,div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div[class="m-box-items m-box-items-full"]
 |https://m.iqiyi.com/v_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>iqiyifilm();</script>@
 |http://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
 |http://m.le.com/vplay_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>lefilm();</script>@
