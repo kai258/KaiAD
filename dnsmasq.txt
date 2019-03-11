@@ -97,7 +97,7 @@ miaozhen.com
 zscctv.cn
 doubleclick.net
 imrworldwide.com
-snssdk.com
+!snssdk.com
 zhuishushenqi.com
 icantv.cn
 hexun.com
