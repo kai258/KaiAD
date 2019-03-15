@@ -684,7 +684,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://googleads.g.doubleclick.net/mads/
 ||https://xdrig.com/
 !---AVBOBO
-|http://imagee.mfib.cn/enm/ads/
+||http://mfib.cn/enm/ads/
 !---梦小星
 ||https://oss-cn-beijing.aliyuncs.com/*.jpg
 ||http://dxyxx.com/
