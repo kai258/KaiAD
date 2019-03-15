@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-03-06 12:00:00   潮云在线 by Kai.-----
+!  -----:  2019-03-15 19:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -127,6 +127,8 @@ xiaomi.cn##div.bannerTop,img.leftfix,.div.bannerBottom
 im-x.jd.com
 !友盟+
 |http://alog.umeng.com
+|http://ulogs.umeng.com
+||http://umengcloud.com
 !酷云监播
 |http://alert.kuyun.com
 |http://config.kuyun.com
@@ -134,10 +136,11 @@ im-x.jd.com
 |http://regist.tv.kuyun.com
 |http://strawberry.kuyun.com
 |http://tvapi.kuyun.com
+||http://ksyun.com
 !广东南方新媒体股份
 |http://tv.aiseet.atianqi.com
 |http://gvod.aiseejapp.atianqi.com
-|http://omgmta.play.aiseet.atianqi.com
+!|http://omgmta.play.aiseet.atianqi.com
 !银河互联网电视
 |http://auth.api.gitv.tv
 |http://appstore.ptmi.gitv.tv
@@ -675,3 +678,18 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.mgtv.com$s@</head>@<link rel="apple-touch-startup-image" href="//coding.net/u/kai258/p/cy/git/raw/master/launcher.png"><script src="//coding.net/u/kai258/p/cy/git/raw/master/safari.js"></script><script>cy()</script></head>@
 |http://vip.1905.com$s@</head>@<meta name="apple-mobile-web-app-title" content ="1905VIP影院"><link rel="apple-touch-icon" href="//coding.net/u/kai258/p/cy/git/raw/master/1905.png"><link rel="apple-touch-icon-precomposed" href="//coding.net/u/kai258/p/cy/git/raw/master/1905.png"><link rel="apple-touch-startup-image" href="//coding.net/u/kai258/p/cy/git/raw/master/launcher.png"><meta name="format-detection" content="telphone=no,email=no"><script src="//coding.net/u/kai258/p/cy/git/raw/master/safari.js"></script><script>cy()</script></head>@
 !
+!---麻花影视
+||http://yimohui2017.com/mahua/img/*.png
+!---影迷大院
+||https://googleads.g.doubleclick.net/mads/
+||https://xdrig.com/
+!---AVBOBO
+|http://imagee.mfib.cn/enm/ads/
+!---梦小星
+||https://oss-cn-beijing.aliyuncs.com/*.jpg
+||http://dxyxx.com/
+||https://netease.im/
+||http://498c.com/
+|https://wannos.127.net/
+!---陌陌
+||https://api.immomo.com/*/welcome/
