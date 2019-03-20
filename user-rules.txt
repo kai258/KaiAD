@@ -605,7 +605,9 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://openinstall.io/
 ||https://v5cam.com/*.js
 ||https://yunsoka.com/
-||https://cdn.jsdelivr.net/*.js
+||https://jsdelivr.net/*.js
+||https://yunsoka.com/
+||https://mendoc.cn/
 !|https://m.youku.com/*ideo/id_*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
 |http://m.youku.com/video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
 |http://m.youku.com/video/id_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>youkufilm();</script>@
