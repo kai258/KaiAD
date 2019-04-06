@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-03-20 12:30:00   潮云在线 by Kai.-----
+!  -----:  2019-04-06 12:30:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -608,15 +608,11 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://jsdelivr.net/*.js
 ||https://yunsoka.com/
 ||https://mendoc.cn/
-!|https://m.youku.com/*ideo/id_*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
-|http://m.youku.com/video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
-|http://m.youku.com/video/id_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>youkufilm();</script>@
-|https://m.youku.com/video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
-|https://m.youku.com/video/id_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>youkufilm();</script>@
-|http://m.youku.com/alipay_video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
-|http://m.youku.com/alipay_video/id_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>youkufilm();</script>@
-|https://m.youku.com/alipay_video/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
-|https://m.youku.com/alipay_video/id_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>youkufilm();</script>@
+||https://youku.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+|https://m.youku.com/*ideo/id_*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_youku.js"></script>@
+||https://youku.com$s@</body>@<script>chaoyun()</script></body>@
+|https://m.youku.com/*ideo/id_*$s@</body>@</body><script>chaoyunplay()</script>@
+|https://m.youku.com/*ideo/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
 |http://m.iqiyi.com/v_*##div.header-app,div.iqy-items,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"],div[class="c-btn c-btn-block c-btn-block-lxx m-openVip-banner"],div.video-action-btn,div[class="m-player-tip m-vipPlayer-tip"],div.m-player-tip,div.c-openVip,div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div[class="m-iqylink-guide iqiyi-down-load"]
 |http://m.iqiyi.com/v_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>iqiyifilm();</script>@
 |https://m.iqiyi.com/v_*##div.header-app,div.iqy-items,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"],div[class="c-btn c-btn-block c-btn-block-lxx m-openVip-banner"],div.video-action-btn,div[class="m-player-tip m-vipPlayer-tip"],div.m-player-tip,div.c-openVip,div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div[class="m-iqylink-guide iqiyi-down-load"]
@@ -702,4 +698,19 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://wannos.127.net/
 !---陌陌
 ||https://api.immomo.com/*/welcome/
+!---视频解析广告
+||http://927*.com$s@//*/loading_wap.gif@//chaoyun.coding.me/image/loading_wap.gif@
+||https://927*.com$s@//*/loading_wap.gif@//chaoyun.coding.me/image/loading_wap.gif@
+||https://xcxzxc.cn/
+||https://gze3.cn/
+||https://51.la/
+||https://lmxxxz.com/
+||https://gw069.com/
+||https://fx2y.com/
+||https://ap-shanghai.myqcloud.com/
+||https://wwwwww.vip/
+||https://mmstat.com/
+||https://550tg.com/
+||https://gwsanguo.com/
+||https://xiakelea.net/
 
