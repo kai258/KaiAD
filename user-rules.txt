@@ -575,28 +575,28 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 !
 |http://m.iqiyi.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |http://m.iqiyi.com/v_*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyi.js"></script>@
-|http://m.iqiyi.com$s@</body>@</body><script>chaoyun()</script>@
-|http://m.iqiyi.com/v_*$s@</body>@</body><script>chaoyunplay()</script>@
+|http://m.iqiyi.com$s@</body>@<script>chaoyun()</script></body>@
+|http://m.iqiyi.com/v_*$s@</body>@</body><script>chaoyun_iqiyi_style()</script>@
 |https://m.iqiyi.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |https://m.iqiyi.com/v_*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyi.js"></script>@
-|https://m.iqiyi.com$s@</body>@</body><script>chaoyun()</script>@
-|https://m.iqiyi.com/v_*$s@</body>@</body><script>chaoyunplay()</script>@
+|https://m.iqiyi.com$s@</body>@<script>chaoyun()</script></body>@
+|https://m.iqiyi.com/v_*$s@</body>@</body><script>chaoyun_iqiyi_style()</script>@
 |http://m.iqiyi.com/v_*##div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,div[class="m-iqylink-guide iqiyi-down-load"],div[class="header-app iqiyi-down-load"],section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"]
 |https://m.iqiyi.com/v_*##div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,div[class="m-iqylink-guide iqiyi-down-load"],div[class="header-app iqiyi-down-load"],section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"]
 ||https://m.v.qq.com$s@<meta http-equiv="Content-Security-Policy" content="script-src 'self' *.qq.com *.gtimg.cn *.gtimg.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' *.qq.com *.gtimg.cn *.gtimg.com 'unsafe-inline';">@<meta http-equiv="Content-Security-Policy" content="black">@
 |https://m.v.qq.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |https://m.v.qq.com/*.html*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_qqlive.js"></script>@
 |https://m.v.qq.com/*.html*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_qqvip.js"></script>@
-|https://m.v.qq.com$s@</body>@</body><script>chaoyun()</script>@
-|https://m.v.qq.com/*.html*$s@</body>@</body><script>chaoyunplay()</script>@
+|https://m.v.qq.com$s@</body>@<script>chaoyun()</script></body>@
+|https://m.v.qq.com/*.html*$s@</body>@</body><script>chaoyun_qq_style()</script>@
 |https://film.qq.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
-|https://film.qq.com$s@</body>@</body><script>chaoyun()</script>@
+|https://film.qq.com$s@</body>@<script>chaoyun()</script></body>@
 |https://m.v.qq.com/*.html*##i[class="icon_download"],a[class="btn_give"],section[class="mod_player none"],a[class="js_btn_pay btn_pay"],a[class="js_btn_pay_small btn_pay_small"],div[class="tvp_app_btn"],div[class="mod_promotion"],a[class="js_btn_pay btn_pay btn_ct"]
 |https://film.qq.com##div.g_menubar
 ||https://youku.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |https://m.youku.com/*ideo/id_*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_youku.js"></script>@
 ||https://youku.com$s@</body>@<script>chaoyun()</script></body>@
-|https://m.youku.com/*ideo/id_*$s@</body>@</body><script>chaoyunplay()</script>@
+|https://m.youku.com/*ideo/id_*$s@</body>@</body><script>chaoyun_youku_style()</script>@
 |https://m.youku.com/*ideo/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom
 !
 |http://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
