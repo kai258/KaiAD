@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-04-06 12:30:00   潮云在线 by Kai.-----
+!  -----:  2019-04-11 15:30:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -716,6 +716,11 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://927jx.com/vip/tj.js
 ||https://lmxxxz.com/*.js
 ||https://xcxzxc.cn/*
+||nijiua.com*
 ||https://nijiua.com*
+||089812366.com/*
+||https://089812366.com/*
+||https://zgdxp.com/*
+||https://v5cam.com/*.js
 ||https://xiaohui12.cn/*.js
 |https://www.3aym.cn/*/CollectionAPP.js
