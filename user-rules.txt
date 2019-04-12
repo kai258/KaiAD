@@ -629,6 +629,16 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://www.wasu.cn$s@</body>@<script>chaoyun()</script></body>@
 |https://www.wasu.cn/wap/*$s@</body>@</body><script>chaoyun_wasu_style()</script>@
 |https://www.wasu.cn/wap/*##div[class="hd l"],div.vip,div[class="ws_more_app l"],div.ws_ad,div.play_ads,div.sidebar,div[id="uc-ads"],div[id="pop_box"],div[class="ws_ad"],div[class="play_ads"],div[class="sidebar"],div[id="adContainer"],div[id="try_player"]
+|http://m.le.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+|http://m.le.com/vplay_*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_letv.js"></script>@
+|http://m.le.com$s@</body>@<script>chaoyun()</script></body>@
+|http://m.le.com/vplay_*$s@</body>@</body><script>chaoyun_letv_style()</script>@
+|https://m.le.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+|https://m.le.com/vplay_*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_letv.js"></script>@
+|https://m.le.com$s@</body>@<script>chaoyun()</script></body>@
+|https://m.le.com/vplay_*$s@</body>@</body><script>chaoyun_letv_style()</script>@
+|http://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
+|https://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
 |https://vip.1905.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |https://vip.1905.com/play/*.shtml$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_1905.js"></script>@
 |https://vip.1905.com$s@</body>@<script>chaoyun()</script></body>@
@@ -644,11 +654,6 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://compaign.tudou.com/v/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
 |http://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"],div[id="footer-normal-download"]
 |https://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"],div[id="footer-normal-download"]
-!
-|http://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
-|http://m.le.com/vplay_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>lefilm();</script>@
-|https://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
-|https://m.le.com/vplay_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>lefilm();</script>@
 !--WebAPP设置
 ||https://youku.com$s@</head>@<meta name="apple-mobile-web-app-title" content ="优酷视频"><link rel="apple-touch-icon" href="//kai258.coding.me/image/youku.png"><link rel="apple-touch-icon-precomposed" href="//kai258.coding.me/image/youku.png"><link rel="apple-touch-startup-image" href="//kai258.coding.me/image/launcher.png"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"><meta name="format-detection" content="telphone=no,email=no"><script src="//coding.net/u/kai258/p/javascript/git/raw/master/safari.js"></script><script>cy()</script></head>@
 |http://m.iqiyi.com$s@</head>@<meta name="apple-mobile-web-app-title" content ="爱奇艺视频"><link rel="apple-touch-icon" href="//kai258.coding.me/image/iqiyi.png"><link rel="apple-touch-icon-precomposed" href="//kai258.coding.me/image/iqiyi.png"><link rel="apple-touch-startup-image" href="//kai258.coding.me/image/launcher.png"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"><script src="//coding.net/u/kai258/p/javascript/git/raw/master/safari.js"></script><script>cy()</script></head>@
