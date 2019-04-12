@@ -629,13 +629,16 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://www.wasu.cn$s@</body>@<script>chaoyun()</script></body>@
 |https://www.wasu.cn/wap/*$s@</body>@</body><script>chaoyun_wasu_style()</script>@
 |https://www.wasu.cn/wap/*##div[class="hd l"],div.vip,div[class="ws_more_app l"],div.ws_ad,div.play_ads,div.sidebar,div[id="uc-ads"],div[id="pop_box"],div[class="ws_ad"],div[class="play_ads"],div[class="sidebar"],div[id="adContainer"],div[id="try_player"]
+|https://vip.1905.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+|https://vip.1905.com/play/*.shtml$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_1905.js"></script>@
+|https://vip.1905.com$s@</body>@<script>chaoyun()</script></body>@
+|https://vip.1905.com/play/*.shtml$s@</body>@</body><script>chaoyun_1905_style()</script>@
+|https://vip.1905.com/play/*.shtml##section[id="app_store"],a[class="mbtn member"],section[id="promotion"],section[id="fix_member"],div.floatMark
 !
 |http://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
 |http://m.le.com/vplay_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>lefilm();</script>@
 |https://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
 |https://m.le.com/vplay_*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>lefilm();</script>@
-|https://vip.1905.com/play/*.shtml##section[id="app_store"],a[class="mbtn member"],section[id="promotion"],section[id="fix_member"],div.floatMark
-|https://vip.1905.com/play/*.shtml$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>film1905();</script>@
 |http://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"]
 |http://compaign.tudou.com$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone.js"></script><script>tudoufilm();</script>@
 !|https://pan.baidu.com$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/baidu.js"></script>@
