@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-04-14 01:30:00   潮云在线 by Kai.-----
+!  -----:  2019-04-14 02:30:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -575,10 +575,12 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 !
 |http://m.iqiyi.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |http://m.iqiyi.com/v_*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyi.js"></script></body>@
+|http://m.iqiyi.com/v_*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyilive.js"></script></body>@
 |http://m.iqiyi.com$s@</body>@<script>chaoyun()</script></body>@
 |http://m.iqiyi.com/v_*$s@</body>@</body><script>chaoyun_iqiyi_style()</script>@
 |https://m.iqiyi.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |https://m.iqiyi.com/v_*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyi.js"></script></body>@
+|https://m.iqiyi.com/v_*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyilive.js"></script></body>@
 |https://m.iqiyi.com$s@</body>@<script>chaoyun()</script></body>@
 |https://m.iqiyi.com/v_*$s@</body>@</body><script>chaoyun_iqiyi_style()</script>@
 |http://m.iqiyi.com/v_*##div.iqiyi-down-load,div.iqiyi-h5-empty,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"]
