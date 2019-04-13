@@ -739,4 +739,10 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://arpps.com/565/*
 ||52w52w.com*
 ||https://52w52w.com*
+||olc0.cn/*
+||https://olc0.cn/*
+||haizirv.cn/*
+||https://haizirv.cn/*
+||ve001nz.com/*
+||https://ve001nz.com/*
 ||https://s.wasu.cn/*/mobile/js/newrem.js*
