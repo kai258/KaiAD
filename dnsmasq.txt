@@ -73,6 +73,8 @@ tv.sohu.com
 m.tv.sohu.com
 film.sohu.com
 m.film.sohu.com
+migu.cn
+miguvideo.com
 163.com
 !right.com.cn
 50bang.org
