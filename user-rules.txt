@@ -628,6 +628,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.mgtv.com/b/*.html##div.mg-video,div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,div.video-poster,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner
 |https://www.wasu.cn$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |https://www.wasu.cn/wap/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_wasu.js"></script></body>@
+|https://www.wasu.cn/wap/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_wasulive.js"></script></body>@
 |https://www.wasu.cn$s@</body>@<script>chaoyun()</script></body>@
 |https://www.wasu.cn/wap/*$s@</body>@</body><script>chaoyun_wasu_style()</script>@
 |https://www.wasu.cn/wap/*##div[class="hd l"],div.vip,div[class="ws_more_app l"],div.ws_ad,div.play_ads,div.sidebar,div[id="uc-ads"],div[id="pop_box"],div[class="ws_ad"],div[class="play_ads"],div[class="sidebar"],div[id="adContainer"],div[id="try_player"]
