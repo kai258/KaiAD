@@ -747,4 +747,5 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://haizirv.cn/*
 ||ve001nz.com/*
 ||https://ve001nz.com/*
-||https://s.wasu.cn/*/mobile/js/newrem.js*
+||meikobeauty.com
+||https://meikobeauty.com
