@@ -546,9 +546,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |http://www.tudou.com/albumplay/*.html##.tab_nav.fix select{margin-top: 11px;font-size: 15px}csshack
 |http://new-play.tudou.com/v/*.html$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>tudouvideo();</script>@
 |http://new-play.tudou.com/v/*.html##[class="td-interactbox__fn--right"]>select{margin-right: 20px;margin-top: 15px;font-size: 15px}csshack
-||https://www.wasu.cn/*$s@</head>@<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"></head>@
-|https://www.wasu.cn/wap/*##div[class="hd l"],div.vip,div[class="ws_more_app l"],div.ws_ad,div.play_ads,div.sidebar,div[id="uc-ads"],div[id="pop_box"],div[class="ws_ad"],div[class="play_ads"],div[class="sidebar"],div[id="adContainer"]
-|https://www.wasu.cn/wap/*$s@</body>@</body><script src="//coding.net/u/kai258/p/KaiAD/git/raw/master/yunphone.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/KaiAD/git/raw/master/phone_https.js"></script><script>wasufilm();</script>@
+|https://www.wasu.cn/Play/*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>wasufilm();</script>@
 !
 |https://www.iqiyi.com/v_*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyi_pc.js"></script>@
 |https://www.iqiyi.com/v_*$s@</body>@</body><script>chaoyun_iqiyi_style()</script>@
