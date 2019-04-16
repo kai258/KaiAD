@@ -642,9 +642,11 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |www.le.com/*/vplay/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_letv_pc.js"></script></body>@
 |www.le.com/*/vplay/*$s@</body>@</body><script>chaoyun_letv_style()</script>@
 |www.le.com/*/vplay/*##[class="interact_area currency"]>select{margin-top: 14px;font-size: 15px}csshack,div.vipTabBanner,div.open_vip ,div.QR_code
+||le.com##a.leapp_btn
 |https://www.le.com/*/vplay/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_letv_pc.js"></script></body>@
 |https://www.le.com/*/vplay/*$s@</body>@</body><script>chaoyun_letv_style()</script>@
 |https://www.le.com/*/vplay/*##[class="interact_area currency"]>select{margin-top: 14px;font-size: 15px}csshack,div.vipTabBanner,div.open_vip ,div.QR_code
+||https://le.com##a.leapp_btn
 ||le.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |m.le.com/vplay_*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_letv.js"></script></body>@
 |m.le.com$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_letvapp.js"></script>@
@@ -658,7 +660,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
 |https://m.le.com/vplay_*##div.cmt_num,div.tool_ico,div[class="j-vipMore vipMore_btn"],div[class="j-leappMore breakFlow"],div.arkBox,section[id="j-zhoubian"]
 |https://vip.1905.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
-|https://vip.1905.com/play/*.shtml$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_1905.js"></script></body>@
+|https://vip.1905.com/play/*.shtml$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_1905.js"></script>@
 |https://vip.1905.com$s@</body>@<script>chaoyun()</script></body>@
 |https://vip.1905.com/play/*.shtml$s@</body>@</body><script>chaoyun_1905_style()</script>@
 |https://vip.1905.com/play/*.shtml##section[id="app_store"],a[class="mbtn member"],section[id="promotion"],section[id="fix_member"],div.floatMark,div[id="oa-2832689457-123-14858-1554103581197"]
