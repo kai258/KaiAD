@@ -542,9 +542,10 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 !--电商广告
 |https://policy.jd.com
 !
-||v.youku.com/v_show/id_*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
-|http://v.youku.com/v_show/id_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>youkufilm();</script>@
-|https://v.youku.com/v_show/id_*$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>youkufilm();</script>@
+|https://v.youku.com/v_show/id_*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_youku_pc.js"></script></body>@
+|https://v.youku.com/v_show/id_*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+|https://v.youku.com/v_show/id_*###player:not([style])>iframe{height:calc(100% - 50px)}csshack
+!
 |http://www.tudou.com/albumplay/*.html$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>tudoufilm();</script>@
 |http://www.tudou.com/albumplay/*.html##.tab_nav.fix select{margin-top: 11px;font-size: 15px}csshack
 |http://new-play.tudou.com/v/*.html$s@</body>@</body><script src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/yunpc.js"></script><script type="text/javascript" charset="utf-8" src="https://coding.net/u/kai258/p/KaiAD/git/raw/master/pc.js"></script><script>tudouvideo();</script>@
@@ -754,3 +755,31 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://meikobeauty.com
 ||https://8881919.cc
 ||https://googlesyndication.com/*ads*.js
+||https://317185.com
+||https://wasu.cn/*/mobile/*/fixbar.js*
+||itemccmod.com/*
+||https://itemccmod.com/*
+||0551zgz.com/*
+||https://0551zgz.com/*
+||dajibai.com/*
+||https://dajibai.com/*
+||cnzmyn.com/*
+||https://cnzmyn.com/*
+||nihaopengyou.com/*
+||https://nihaopengyou.com/*
+||uc4a.cn
+||https://uc4a.cn
+||https://zhamm.cn
+||https://imykgs.cn
+||https://hbljhs.cn
+||https://qpgyy.cn
+||https://fcwlzh.cn
+||https://yyisbz.cn
+||https://flvsp.com
+||550tg.com/*
+||https://550tg.com/*
+||https://gwsanguo.com/*
+||mallcss.com
+||https://mallcss.com
+||xiakelea.com
+||https://xiakelea.com
