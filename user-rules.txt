@@ -819,6 +819,8 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://scorecardresearch.com/*.js
 |https://adservice.google.*/adsid/*.js*
 |https://pagead*.googlesyndication.com/pagead/js/*.js
+|ark.le.com
+|https://ark.le.com
 |ark.letv.com
 |https://ark.letv.com
 |intark.letv.com
@@ -853,3 +855,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://bayimob.com
 ||alitech.online
 ||https://alitech.online
+||wrating.com
+||https://wrating.com
+|minisite.letv.com
+|https://minisite.letv.com
