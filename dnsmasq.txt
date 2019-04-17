@@ -31,6 +31,7 @@ agn.aty.sohu.com
 itc.cn
 kankan.com
 ku6.com
+le.com
 letv.com
 m.letv.com
 letvcloud.com
