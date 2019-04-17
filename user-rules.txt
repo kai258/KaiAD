@@ -811,8 +811,10 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://mallcss.com
 ||xiakelea.com
 ||https://xiakelea.com
-||aplus.pptv.com
-||https://aplus.pptv.com
+|as.aplus.pptv.com
+|pub.aplus.pptv.com
+|https://as.aplus.pptv.com
+|https://pub.aplus.pptv.com
 ||https://bdstatic.com/*.js
 ||https://scorecardresearch.com/*.js
 |https://adservice.google.*/adsid/*.js*
