@@ -833,8 +833,8 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://optaim.com
 ||zhiziyun.com
 ||https://zhiziyun.com
-||mapping.yoyi.com.cn
-||https://mapping.yoyi.com.cn
+||yoyi.com.cn
+||https://yoyi.com.cn
 ||fangcyapi.com
 ||https://fangcyapi.com
 ||gtags.net
