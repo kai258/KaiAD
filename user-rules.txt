@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-04-17 14:00:00   潮云在线 by Kai.-----
+!  -----:  2019-04-18 11:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -859,3 +859,17 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://wrating.com
 |minisite.letv.com
 |https://minisite.letv.com
+|cloudflare.com
+|https://cloudflare.com
+|cangtt351.com.com
+|https://cangtt351.com.com
+|feixin2.com
+|https://feixin2.com
+|ririfu.com
+|https://ririfu.com
+|aibangxing.com
+|https://aibangxing.com
+|flpjc.com
+|https://flpjc.com
+|jlsprh.com
+|https://jlsprh.com
