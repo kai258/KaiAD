@@ -680,7 +680,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 !
 |https://video.tudou.com/v/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_tudou_pc.js"></script>@
 |https://video.tudou.com/v/*$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
-|https://video.tudou.com/v/*##div.td-side-bar-item,div.dropdown
+|https://video.tudou.com/v/*##div.td-side-bar-item,div.dropdown__panel,div.dropdown
 ||https://tudou.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 ||https://tudou.com$s@</body>@<script>chaoyun()</script></body>@
 |https://compaign.tudou.com/v/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_tudou.js"></script></body>@
