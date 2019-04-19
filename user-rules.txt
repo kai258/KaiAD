@@ -722,7 +722,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper
 |www.baofeng.com/play/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_baofeng_pc.js"></script>@
 |www.baofeng.com/play/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
-|www.baofeng.com/play/*##a.play-download
+|www.baofeng.com/play/*##a.play-download,div.play-ad-box,div.play-ad-left,div.ad-con
 ||baofeng.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 ||baofeng.com$s@</body>@<script>chaoyun()</script></body>@
 |m.baofeng.com/play/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_baofeng.js"></script></body>@
