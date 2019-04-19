@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-04-19 14:00:00   潮云在线 by Kai.-----
+!  -----:  2019-04-19 14:30:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -678,17 +678,14 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://vip.1905.com/play/*.shtml$s@</body>@</body><script>chaoyun_1905_style()</script>@
 |https://vip.1905.com/play/*.shtml##section[id="app_store"],a[class="mbtn member"],section[id="promotion"],section[id="fix_member"],div.floatMark,div[id="oa-2832689457-123-14858-1554103581197"]
 !
-|http://compaign.tudou.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
-|http://compaign.tudou.com/v/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_tudou.js"></script></body>@
-|http://compaign.tudou.com$s@</body>@<script>chaoyun()</script></body>@
-|http://compaign.tudou.com/v/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
-|https://compaign.tudou.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+|https://video.tudou.com/v/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_tudou_pc.js"></script>@
+|https://video.tudou.com/v/*$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
+|https://video.tudou.com/v/*##div.td-side-bar-item,div.dropdown
+||https://tudou.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+||https://tudou.com$s@</body>@<script>chaoyun()</script></body>@
 |https://compaign.tudou.com/v/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_tudou.js"></script></body>@
-|https://compaign.tudou.com$s@</body>@<script>chaoyun()</script></body>@
 |https://compaign.tudou.com/v/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
-|http://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"],div[id="footer-normal-download"]
 |https://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"],div[id="footer-normal-download"]
-!
 |www.fun.tv/vplay/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_fun_pc.js"></script>@
 |www.fun.tv/vplay/*$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
 |https://www.fun.tv/vplay/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_fun_pc.js"></script>@
