@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-04-18 11:00:00   潮云在线 by Kai.-----
+!  -----:  2019-04-19 14:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -720,6 +720,19 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |www.migu.cn##a.icon-down,div.down,div.index-ad,div.moudel_container.div.type-tabs-container,h2.title-7,ul.hardware-container,div.ad-control,div.erweima
 |m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper
 |https://m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper
+|www.baofeng.com/play/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_baofeng_pc.js"></script>@
+|www.baofeng.com/play/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+|www.baofeng.com/play/*##a.play-download
+||baofeng.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+||baofeng.com$s@</body>@<script>chaoyun()</script></body>@
+|m.baofeng.com/play/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_baofeng.js"></script></body>@
+|m.baofeng.com/play/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+||https://baofeng.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+||https://baofeng.com$s@</body>@<script>chaoyun()</script></body>@
+|https://m.baofeng.com/play/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_baofeng.js"></script></body>@
+|https://m.baofeng.com/play/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+|m.baofeng.com/play/*##a.download-app,p.download-app,div.video-info,div.video-download-box,div.hd-download-player,div.play-ad-box,div.hd-ad
+|https://m.baofeng.com/play/*##a.download-app,p.download-app,div.video-info,div.video-download-box,div.hd-download-player,div.play-ad-box,div.hd-ad
 !--WebAPP设置
 ||https://youku.com$s@</head>@<meta name="apple-mobile-web-app-title" content ="优酷视频"><link rel="apple-touch-icon" href="//kai258.coding.me/image/youku.png"><link rel="apple-touch-icon-precomposed" href="//kai258.coding.me/image/youku.png"><link rel="apple-touch-startup-image" href="//kai258.coding.me/image/launcher.png"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"><meta name="format-detection" content="telphone=no,email=no"><script src="//coding.net/u/kai258/p/javascript/git/raw/master/safari.js"></script><script>cy()</script></head>@
 |http://m.iqiyi.com$s@</head>@<meta name="apple-mobile-web-app-title" content ="爱奇艺视频"><link rel="apple-touch-icon" href="//kai258.coding.me/image/iqiyi.png"><link rel="apple-touch-icon-precomposed" href="//kai258.coding.me/image/iqiyi.png"><link rel="apple-touch-startup-image" href="//kai258.coding.me/image/launcher.png"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"><script src="//coding.net/u/kai258/p/javascript/git/raw/master/safari.js"></script><script>cy()</script></head>@
