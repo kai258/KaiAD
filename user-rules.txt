@@ -688,12 +688,12 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://compaign.tudou.com/v/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
 |http://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"],div[id="footer-normal-download"]
 |https://compaign.tudou.com##div.video-player-topbar,div.td-h5__player__appguide,div.desc-meta-source,div.desc-meta-list,footer[id="player-new-footer"],div[id="footer-normal-download"]
+!
 |www.fun.tv/vplay/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_fun_pc.js"></script>@
 |www.fun.tv/vplay/*$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
 |https://www.fun.tv/vplay/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_fun_pc.js"></script>@
 |https://www.fun.tv/vplay/*$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
 ||fun.tv$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
-!
 ||fun.tv$s@</body>@<script>chaoyun()</script></body>@
 |m.fun.tv/mplay/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_fun.js"></script>@
 |m.fun.tv/mplay/*$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
@@ -703,6 +703,23 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.fun.tv/mplay/*$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
 |m.fun.tv##div.m-app-guide,div.v-player-func,div.g-ban-client,div.btn-wrap,a.j-install-btn,section[class="g-con v-generalize f-mgt-1 f-mgb"],div[data-deliver="mw_mplay__dlp"],p[class="m-vip-guide z-1"],a[class="btn mall"]
 |https://m.fun.tv##div.m-app-guide,div.v-player-func,div.g-ban-client,div.btn-wrap,a.j-install-btn,section[class="g-con v-generalize f-mgt-1 f-mgb"],div[data-deliver="mw_mplay__dlp"],p[class="m-vip-guide z-1"],a[class="btn mall"]
+|www.migu.cn$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+|www.migu.cn$s@</body>@<script>chaoyun()</script></body>@
+|www.miguvideo.com/*/pc/detail/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu_pc.js"></script>@
+|www.miguvideo.com/*/pc/detail/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+|https://www.miguvideo.com/*/pc/detail/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu_pc.js"></script>@
+|https://www.miguvideo.com/*/pc/detail/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+||miguvideo.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+||miguvideo.com$s@</body>@<script>chaoyun()</script></body>@
+|m.miguvideo.com/*/detail/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu.js"></script></body>@
+|m.miguvideo.com/*/detail/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+||https://miguvideo.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+||https://miguvideo.com$s@</body>@<script>chaoyun()</script></body>@
+|https://m.miguvideo.com/*/detail/*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu.js"></script></body>@
+|https://m.miguvideo.com/*/detail/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+|www.migu.cn##a.icon-down,div.down,div.index-ad,div.moudel_container.div.type-tabs-container,h2.title-7,ul.hardware-container,div.ad-control,div.erweima
+|m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper
+|https://m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper
 !--WebAPP设置
 ||https://youku.com$s@</head>@<meta name="apple-mobile-web-app-title" content ="优酷视频"><link rel="apple-touch-icon" href="//kai258.coding.me/image/youku.png"><link rel="apple-touch-icon-precomposed" href="//kai258.coding.me/image/youku.png"><link rel="apple-touch-startup-image" href="//kai258.coding.me/image/launcher.png"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"><meta name="format-detection" content="telphone=no,email=no"><script src="//coding.net/u/kai258/p/javascript/git/raw/master/safari.js"></script><script>cy()</script></head>@
 |http://m.iqiyi.com$s@</head>@<meta name="apple-mobile-web-app-title" content ="爱奇艺视频"><link rel="apple-touch-icon" href="//kai258.coding.me/image/iqiyi.png"><link rel="apple-touch-icon-precomposed" href="//kai258.coding.me/image/iqiyi.png"><link rel="apple-touch-startup-image" href="//kai258.coding.me/image/launcher.png"><meta name="apple-mobile-web-app-capable" content ="yes"><meta name="apple-mobile-web-app-status-bar-style" content ="black"><script src="//coding.net/u/kai258/p/javascript/git/raw/master/safari.js"></script><script>cy()</script></head>@
