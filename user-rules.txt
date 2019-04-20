@@ -799,6 +799,8 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||xiaohui12.cn/*.js
 ||https://xiaohui12.cn/*.js
 |https://www.3aym.cn/*/CollectionAPP.js
+|https://www.3aym.cn/*/111.gif
+||http://kanjutt.com
 ||arpps.com/565/*
 ||https://arpps.com/565/*
 ||52w52w.com*
