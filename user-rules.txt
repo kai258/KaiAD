@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-04-20 18:00:00   潮云在线 by Kai.-----
+!  -----:  2019-04-21 02:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -635,15 +635,15 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://www.mgtv.com/b/*$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
 |https://www.mgtv.com/b/*##[class="v-panel-count v-panel-mod"]>select{margin-left: 15px;font-size: 15px}csshack,div.v-panel-banner,div.m-extensbar-game,div.footJifen
 |m.mgtv.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
-|m.mgtv.com/b/*.html$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_mgtv.js"></script>@
 |m.mgtv.com$s@</body>@<script>chaoyun()</script></body>@
-|m.mgtv.com/b/*.html$s@</body>@</body><script>chaoyun_mgtv_div()</script><script>chaoyun_mgtv_style()</script>@
-||https://mgtv.com$s@</body>@<script>chaoyun()</script></body>@
+|m.mgtv.com/b/*.html$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_mgtv.js"></script>@
+|m.mgtv.com/b/*.html$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
 ||https://mgtv.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
+||https://mgtv.com$s@</body>@<script>chaoyun()</script></body>@
 |https://m.mgtv.com/b/*.html$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_mgtv.js"></script>@
-|https://m.mgtv.com/b/*.html$s@</body>@</body><script>chaoyun_mgtv_div()</script><script>chaoyun_mgtv_style()</script>@
-|m.mgtv.com/b/*.html##div.mg-video,div.video-poster,div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner,div.video-error,div.video-about.mg-stat,div.video-about,div.mg-stat,div.rc-portrait-list,div.swiper-video-list,div.mg-stat,div.m-video-loading
-|https://m.mgtv.com/b/*.html##div.mg-video,div.video-poster,div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner,div.video-error,div.video-about.mg-stat,div.video-about,div.mg-stat,div.rc-portrait-list,div.swiper-video-list,div.mg-stat,div.m-video-loading
+|https://m.mgtv.com/b/*.html$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
+|m.mgtv.com/*/*.html##div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner,div.video-error,div.vip-no-try,div.m-vip-list,div.mg-stat
+|https://m.mgtv.com/*/*.html##div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner,div.video-error,div.vip-no-try,div.m-vip-list,div.mg-stat
 ||https://wasu.cn##iframe[id="postmsg-iframe"],iframe[id="_iframe"],div[id="comment_b_right_iframe"]
 |https://www.wasu.cn/Play/*$s@</head>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_wasu_pc.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |https://www.wasu.cn/Play/*$s@</body>@</body><script>chaoyun()</script>@
@@ -939,19 +939,5 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://g9mi6.com
 |js.mgtv.com/*/js/ad-banner.*.js
 |https://js.mgtv.com/*/js/ad-banner.*.js
-|js.mgtv.com/*/js/open-app-*.js
-|https://js.mgtv.com/*/js/open-app-*.js
 |js.mgtv.com/*/js/bottom-banner-app-ad.*.js
 |https://js.mgtv.com/*/js/bottom-banner-app-ad.*.js
-|js.mgtv.com/*/js/open-app-5min.*.js
-|https://js.mgtv.com/*/js/open-app-5min.*.js
-|honey.mgtv.com/honey-2.0/lib/*.min.js
-|https://honey.mgtv.com/honey-2.0/lib/*.min.js
-|sdk.yfp2p.net/config/hunantv/yfhls.js
-|https://sdk.yfp2p.net/config/hunantv/yfhls.js
-|*.da.mgtv.com
-|https://*.da.mgtv.com
-|v5m.api.mgtv.com
-|https://v5m.api.mgtv.com
-|vip.bz.mgtv.com
-|https://vip.bz.mgtv.com
