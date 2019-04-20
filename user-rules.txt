@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-04-20 13:30:00   潮云在线 by Kai.-----
+!  -----:  2019-04-20 18:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -715,8 +715,8 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.miguvideo.com/*/detail*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu.js"></script></body>@
 |https://m.miguvideo.com/*/detail*$s@</body>@</body><script>chaoyun_youku_style()</script>@
 |www.migu.cn##a.icon-down,div.down,div.index-ad,div.moudel_container.div.type-tabs-container,h2.title-7,ul.hardware-container,div.ad-control,div.erweima
-|m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper
-|https://m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper
+|m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper,script[id="headerListtmpl"],p.playTip,div.ad,img.bannerAd
+|https://m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper,script[id="headerListtmpl"],p.playTip,div.ad,img.bannerAd
 |www.baofeng.com/play/*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_baofeng_pc.js"></script>@
 |www.baofeng.com/play/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
 |www.baofeng.com/play/*##a.play-download,div.play-ad-box,div.play-ad-left,div.ad-con
