@@ -708,12 +708,16 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://www.miguvideo.com/*/pc/detail/*$s@</body>@</body><script>chaoyun_youku_style()</script>@
 ||miguvideo.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 ||miguvideo.com$s@</body>@<script>chaoyun()</script></body>@
-|m.miguvideo.com/*/detail*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu.js"></script></body>@
-|m.miguvideo.com/*/detail*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+|m.miguvideo.com/mgs/*/detail*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu.js"></script></body>@
+|m.miguvideo.com/mgs/*/detail*$s@</body>@</body><script>chaoyun_migu()</script><script>chaoyun_youku_style()</script>@
+|m.miguvideo.com/wap/*/detail*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu_wap.js"></script></body>@
+|m.miguvideo.com/wap/*/detail*$s@</body>@</body><script>chaoyun_migu()</script><script>chaoyun_youku_style()</script>@
 ||https://miguvideo.com$s@</head>@<link type="text/css" rel="stylesheet" href="//kai258.coding.me/chaoyun/css/chaoyun.css"><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_nav.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 ||https://miguvideo.com$s@</body>@<script>chaoyun()</script></body>@
-|https://m.miguvideo.com/*/detail*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu.js"></script></body>@
-|https://m.miguvideo.com/*/detail*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+|https://m.miguvideo.com/mgs/*/detail*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu.js"></script></body>@
+|https://m.miguvideo.com/mgs/*/detail*$s@</body>@</body><script>chaoyun_youku_style()</script>@
+|https://m.miguvideo.com/wap/*/detail*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_migu_wap.js"></script></body>@
+|https://m.miguvideo.com/wap/*/detail*$s@</body>@</body><script>chaoyun_youku_style()</script>@
 |www.migu.cn##a.icon-down,div.down,div.index-ad,div.moudel_container.div.type-tabs-container,h2.title-7,ul.hardware-container,div.ad-control,div.erweima
 |m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper,script[id="headerListtmpl"],p.playTip,div.ad,img.bannerAd,div.bar,div.touping
 |https://m.miguvideo.com##div.downLoad,div.downLoadBtn,div.openClient,div.bottom,div[class="swiper-container swiper-container1 swiper-container-horizontal"],div.end-wrapper,script[id="headerListtmpl"],p.playTip,div.ad,img.bannerAd,div.bar,div.touping
