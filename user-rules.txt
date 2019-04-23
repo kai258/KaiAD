@@ -947,3 +947,6 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://js.mgtv.com/*/js/ad-banner.*.js
 |js.mgtv.com/*/js/bottom-banner-app-ad.*.js
 |https://js.mgtv.com/*/js/bottom-banner-app-ad.*.js
+||https://meinianguoji.com
+||https://xmtsyg.com
+||https://staticfile.org
