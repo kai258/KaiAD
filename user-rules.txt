@@ -950,3 +950,6 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://meinianguoji.com
 ||https://xmtsyg.com
 ||https://staticfile.org
+||https://thishare.com
+||dafawm.cc
+||https://dafawm.cc
