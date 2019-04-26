@@ -47,7 +47,7 @@
 ! ******************************************************************************************
 !
 !
-!  -----:  2019-04-21 20:00:00   潮云在线 by Kai.-----
+!  -----:  2019-04-26 20:00:00   潮云在线 by Kai.-----
 !
 !  -----规则兼容koolproxy，部分兼容Adbyby-----
 !
@@ -540,10 +540,10 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.iqiyi.com/v_*$s@</body>@</body><script>chaoyun_iqiyi_style()</script>@
 |m.iqiyi.com$s@class="c-laqi"@class="c-title"@
 |m.iqiyi.com$s@data-callapp="true"@data-callapp=""@
-|m.iqiyi.com/v_*##div.iqiyi-down-load,div.iqiyi-h5-empty,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div.m-play-loginLaqi,div.handle-ad
+|m.iqiyi.com/v_*##div.iqiyi-down-load,div.iqiyi-h5-empty,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div.m-play-loginLaqi,div.handle-ad,div.m-iqylink-guide,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"]
 |https://m.iqiyi.com$s@class="c-laqi"@class="c-title"@
 |https://m.iqiyi.com$s@data-callapp="true"@data-callapp=""@
-|https://m.iqiyi.com/v_*##div.iqiyi-down-load,div.iqiyi-h5-empty,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div.m-play-loginLaqi,div.handle-ad
+|https://m.iqiyi.com/v_*##div.iqiyi-down-load,div.iqiyi-h5-empty,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div.m-play-loginLaqi,div.handle-ad,div.m-iqylink-guide,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"]
 |https://v.qq.com/x/*.html*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_qqlive_pc.js"></script>@
 |https://v.qq.com/x/*.html*$s@</body>@</body><script>chaoyun_qq_style()</script>@
 |https://v.qq.com/x/*.html*##div.tvip_layer,[class="action_wrap cf"]>select{margin-left: 10px;margin-top: 16px}[class="action_item action_count"] .icon_text,div.mod_side_vip
@@ -564,7 +564,7 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://youku.com$s@</body>@<script>chaoyun()</script></body>@
 |https://m.youku.com/*ideo/id_*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_youku.js"></script>@
 |https://m.youku.com/*ideo/id_*$s@</body>@</body><script>chaoyun_youku_style()</script>@
-|https://m.youku.com/*ideo/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom,div.b7-circle-wrapper,div.n8-circle-wrapper,div.x-noticeshow,div.x-top-control,script[id="yksmartbanner"],div.x-advert
+|https://m.youku.com/*ideo/id_*##div.banner,div.brief-btn-wrap,[id=Hold],[id=Bigdrama],[id=AdsPlace],[id=ykbannerLoader],[id=yksmartbanner],a[class="share-txt clipboard"],button[class="x-btn"],div[data-stat-role="ck"],div.shortVideo border-bottom,div.b7-circle-wrapper,div.n8-circle-wrapper,div.x-noticeshow,div.x-top-control,script[id="yksmartbanner"],div.x-advert,div.recommend.border-bottom
 ||sohu.com/crossdomain.xml$c
 |https://tv.sohu.com/v/*.html*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_sohulive_pc.js"></script>@
 |https://tv.sohu.com/v/*.html*$s@</body>@</body><script>chaoyun_sohu_style()</script>@
