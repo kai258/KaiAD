@@ -622,8 +622,8 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 ||https://mgtv.com$s@</body>@<script>chaoyun()</script></body>@
 |https://m.mgtv.com/b/*.html$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_mgtv.js"></script>@
 |https://m.mgtv.com/b/*.html$s@</body>@</body><script>chaoyun_mgtv_style()</script>@
-|m.mgtv.com/*/*.html##div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner,div.video-error,div.vip-no-try,div.m-vip-list,span.mgui-arr-tips,span.mgui-arr-bg,div.video-about
-|https://m.mgtv.com/*/*.html##div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner,div.video-error,div.vip-no-try,div.m-vip-list,span.mgui-arr-tips,span.mgui-arr-bg,div.video-about
+|m.mgtv.com/*/*.html##div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner,div.video-error,div.vip-no-try,div.m-vip-list,span.mgui-arr-tips,span.mgui-arr-bg,div.video-about,div.ft,div.ad-fixed-bar
+|https://m.mgtv.com/*/*.html##div.mg-app-tip,div.mg-app-swip,div.ht,div.ad-time-area2,a[class="video-btn-more"],p[class="mg-down-btn"],div.ad-banner,div.video-error,div.vip-no-try,div.m-vip-list,span.mgui-arr-tips,span.mgui-arr-bg,div.video-about,div.ft,div.ad-fixed-bar
 ||https://wasu.cn##iframe[id="postmsg-iframe"],iframe[id="_iframe"],div[id="comment_b_right_iframe"]
 |https://www.wasu.cn/Play/*$s@</head>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun.js"></script><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_wasu_pc.js"></script><script type="text/javascript" charset="utf-8" src="//coding.net/u/kai258/p/javascript/git/raw/master/chaoyun_line.js"></script></head>@
 |https://www.wasu.cn/Play/*$s@</body>@</body><script>chaoyun()</script>@
