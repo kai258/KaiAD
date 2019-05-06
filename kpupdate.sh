@@ -7,6 +7,16 @@ separated="—————————————————————"
 sh_ver="1.0.0"
 # coding_rules="https://raw.githubusercontent.com/kai258/KaiAD/master"
 
+# user_rules_dir(){ 
+    dir="/etc/storage/koolproxy/rules_store"
+      if [ ! -d "$dir" ];then
+        mkdir $dir
+        echo "创建成功"
+      else
+        echo "不需要创建"
+      fi
+# }
+
 restart_kp(){
   /etc/storage/koolproxy >/dev/null 2>&1
 }
