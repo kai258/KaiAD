@@ -87,7 +87,49 @@ rm_cache(){
         fi
       fi  
 # }
-# source(){  
+# koolproxy(){  
+    wget --no-check-certificate -O /tmp/koolproxy.txt https://raw.githubusercontent.com/kai258/KaiAD/master/koolproxy.txt
+      if [ "$?"x != "0"x ]; then
+        echo_date "下载自用规则失败"
+        logger -t "【Koolproxy】" -p cron.error "下载自用规则失败"
+        rm_cache
+      else          
+        user_online=$(sed -n '1p' /tmp/koolproxy.txt |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
+        user_local=$(sed -n '1p' /etc/storage/koolproxy/data/rules/koolproxy.txt |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
+        if [ "$user_online" -le "$user_local" ];then
+           echo_date "本地自用规则已经最新，无需更新"
+           logger -t "【Koolproxy】" -p cron.info "本地自用规则已经最新，无需更新"
+           rm_cache
+        else
+           echo_date "检测到自用规则更新，应用规则中..."
+           logger -t "【Koolproxy】" -p cron.info "检测到自用规则更新，应用规则中..."
+           cp -f /tmp/koolproxy.txt /etc/storage/koolproxy/data/rules/koolproxy.txt
+           rm_cache;restart_kp
+        fi
+      fi  
+# }
+# daily(){  
+    wget --no-check-certificate -O /tmp/daily.txt https://raw.githubusercontent.com/kai258/KaiAD/master/daily.txt
+      if [ "$?"x != "0"x ]; then
+        echo_date "下载自用规则失败"
+        logger -t "【Koolproxy】" -p cron.error "下载自用规则失败"
+        rm_cache
+      else          
+        user_online=$(sed -n '1p' /tmp/daily.txt |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
+        user_local=$(sed -n '1p' /etc/storage/koolproxy/data/rules/daily.txt |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
+        if [ "$user_online" -le "$user_local" ];then
+           echo_date "本地自用规则已经最新，无需更新"
+           logger -t "【Koolproxy】" -p cron.info "本地自用规则已经最新，无需更新"
+           rm_cache
+        else
+           echo_date "检测到自用规则更新，应用规则中..."
+           logger -t "【Koolproxy】" -p cron.info "检测到自用规则更新，应用规则中..."
+           cp -f /tmp/daily.txt /etc/storage/koolproxy/data/rules/daily.txt
+           rm_cache;restart_kp
+        fi
+      fi  
+# }
+# kp(){  
     wget --no-check-certificate -O /tmp/kp.dat https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/kp.dat
       if [ "$?"x != "0"x ]; then
         echo_date "下载自用规则失败"
