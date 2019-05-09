@@ -7,7 +7,7 @@ separated="—————————————————————"
 sh_ver="1.0.0"
 # coding_rules="https://raw.githubusercontent.com/kai258/KaiAD/master"
 
-# user_rules_dir(){ 
+# rules_dir(){ 
     dir="/etc/storage/koolproxy/rules_store"
       if [ ! -d "$dir" ];then
         mkdir $dir
@@ -45,7 +45,7 @@ rm_cache(){
         fi
       fi  
 # }
-# user_rules(){  
+# dnsmsaq(){  
     wget --no-check-certificate -O /tmp/dnsmasq.txt https://raw.githubusercontent.com/kai258/KaiAD/master/dnsmasq.txt
       if [ "$?"x != "0"x ]; then
         echo_date "下载自用规则失败"
@@ -66,7 +66,7 @@ rm_cache(){
         fi
       fi  
 # }
-# user_rules(){  
+# source(){  
     wget --no-check-certificate -O /tmp/source.list https://raw.githubusercontent.com/kai258/KaiAD/master/source.list
       if [ "$?"x != "0"x ]; then
         echo_date "下载自用规则失败"
@@ -83,6 +83,27 @@ rm_cache(){
            echo_date "检测到自用规则更新，应用规则中..."
            logger -t "【Koolproxy】" -p cron.info "检测到自用规则更新，应用规则中..."
            cp -f /tmp/source.list /etc/storage/koolproxy/data/source.list
+           rm_cache;restart_kp
+        fi
+      fi  
+# }
+# source(){  
+    wget --no-check-certificate -O /tmp/kp.dat https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/kp.dat
+      if [ "$?"x != "0"x ]; then
+        echo_date "下载自用规则失败"
+        logger -t "【Koolproxy】" -p cron.error "下载自用规则失败"
+        rm_cache
+      else          
+        user_online=$(sed -n '1p' /tmp/kp.dat |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
+        user_local=$(sed -n '1p' /etc/storage/koolproxy/data/rules/kp.dat |  awk -F' ' '{print $3$4}'  | sed  's/-//g' | sed  's/://g')
+        if [ "$user_online" -le "$user_local" ];then
+           echo_date "本地自用规则已经最新，无需更新"
+           logger -t "【Koolproxy】" -p cron.info "本地自用规则已经最新，无需更新"
+           rm_cache
+        else
+           echo_date "检测到自用规则更新，应用规则中..."
+           logger -t "【Koolproxy】" -p cron.info "检测到自用规则更新，应用规则中..."
+           cp -f /tmp/source.list /etc/storage/koolproxy/data/rules/kp.dat
            rm_cache;restart_kp
         fi
       fi  
