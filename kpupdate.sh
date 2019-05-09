@@ -103,7 +103,7 @@ rm_cache(){
         else
            echo_date "检测到自用规则更新，应用规则中..."
            logger -t "【Koolproxy】" -p cron.info "检测到自用规则更新，应用规则中..."
-           cp -f /tmp/source.list /etc/storage/koolproxy/data/rules/kp.dat
+           cp -f /tmp/kp.dat /etc/storage/koolproxy/data/rules/kp.dat
            rm_cache;restart_kp
         fi
       fi  
