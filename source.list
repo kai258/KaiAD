@@ -1,4 +1,7 @@
-1|koolproxy.txt|https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/easylistchina.txt|
-1|daily.txt|https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/kpr_video_list.txt|
-1|kp.dat|https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/kp.dat|
-1|user.txt||
+1|koolproxy.txt||静态规则
+1|daily.txt|https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/kpr_video_list.txt|每日规则
+1|kp.dat|https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/kp.dat|视频规则
+1|user.txt||自定义规则
+0|easylistchina.txt|https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/easylistchina.txt|ABP规则
+0|chengfeng.txt|https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/chengfeng.txt|乘风规则
+0|fanboy.txt|https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/fanboy.txt|Fanboy规则
