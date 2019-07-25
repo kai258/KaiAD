@@ -540,12 +540,12 @@ youku.com##div#ykBottomBanner,div#lotteryLeft,div#youku_ad_crazy,div#ad_crazy_yo
 |https://m.iqiyi.com/v_*$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyiplay.js"></script></body>@
 |https://m.iqiyi.com$s@</body>@<script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_iqiyiapp.js"></script></body>@
 |https://m.iqiyi.com/v_*$s@</body>@</body><script>chaoyun_iqiyi_style()</script>@
-|m.iqiyi.com$s@class="c-laqi"@class="c-title"@
+|m.iqiyi.com$s@class=".c-picicon.c-picicon-laqi"@class="c-title"@
 |m.iqiyi.com$s@data-callapp="true"@data-callapp=""@
-|m.iqiyi.com/v_*##div.iqiyi-down-load,div.iqiyi-h5-empty,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div.m-play-loginLaqi,div.handle-ad,div.m-iqylink-guide,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"]
-|https://m.iqiyi.com$s@class="c-laqi"@class="c-title"@
+|m.iqiyi.com/v_*##div.iqiyi-down-load,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div.m-play-loginLaqi,div.handle-ad,div.m-iqylink-guide,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"]
+|https://m.iqiyi.com$s@class=".c-picicon.c-picicon-laqi"@class="c-title"@
 |https://m.iqiyi.com$s@data-callapp="true"@data-callapp=""@
-|https://m.iqiyi.com/v_*##div.iqiyi-down-load,div.iqiyi-h5-empty,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div.m-play-loginLaqi,div.handle-ad,div.m-iqylink-guide,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"]
+|https://m.iqiyi.com/v_*##div.iqiyi-down-load,div.header-app,div.iqy-items,div.m-player-tip,div.c-openVip,section.m-business-list,section[class="m-iqyDown iqiyi-down-load"],div[class="m-box-connect m-box-bottom m-box-Ptop m-box-Pbottom"],div.m-play-loginLaqi,div.handle-ad,div.m-iqylink-guide,div[class="m-box-items m-box-items-Ptop m-box-items-Pbottom"]
 |https://v.qq.com/x/*.html*$s@</body>@</body><script type="text/javascript" src="//coding.net/u/kai258/p/javascript/git/raw/master/line_qqlive_pc.js"></script>@
 |https://v.qq.com/x/*.html*$s@</body>@</body><script>chaoyun_qq_style()</script>@
 |https://v.qq.com/x/*.html*##div.tvip_layer,[class="action_wrap cf"]>select{margin-left: 10px;margin-top: 16px}[class="action_item action_count"] .icon_text,div.mod_side_vip
